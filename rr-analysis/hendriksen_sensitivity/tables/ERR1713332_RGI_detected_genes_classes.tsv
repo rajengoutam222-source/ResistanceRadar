@@ -1,0 +1,468 @@
+ARO_Term	Drug_Class	All_Mapped_Reads	Average_Percent_Coverage
+OXA-212	carbapenem; penicillin beta-lactam	69.00	71.88
+CARB-5	penicillin beta-lactam	14.00	46.27
+msrE	macrolide antibiotic; streptogramin antibiotic	3555.00	100.00
+FosA2	phosphonic acid antibiotic	3.00	42.02
+AAC(3)-Ia	aminoglycoside antibiotic	12.00	90.97
+CblA-1	cephalosporin	2.00	28.06
+mdtP	nucleoside antibiotic; disinfecting agents and antiseptics	18.00	94.34
+dfrF	diaminopyrimidine antibiotic	4.00	86.26
+gadX	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam	13.00	70.79
+TLA-2	monobactam; cephalosporin	2.00	31.26
+mdtF	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam	53.00	82.63
+catB3	phenicol antibiotic	7.00	70.62
+cpxA	aminoglycoside antibiotic; aminocoumarin antibiotic	49.00	100.00
+fosA5	fluoroquinolone antibiotic; aminoglycoside antibiotic; phosphonic acid antibiotic	5.00	66.90
+lnuA	lincosamide antibiotic	21.00	35.80
+OXA-21	cephalosporin; penicillin beta-lactam	8.00	69.69
+vgaALC	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	3.00	2.74
+adeF	fluoroquinolone antibiotic; tetracycline antibiotic	2.00	9.43
+lsaE	lincosamide antibiotic; streptogramin antibiotic; pleuromutilin antibiotic	39.00	92.39
+CfxA6	cephalosporin	20.00	85.44
+smeD	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic	37.00	79.16
+OXA-85	penicillin beta-lactam	2.00	16.34
+CfxA4	cephalosporin	10.00	72.98
+aadA4	aminoglycoside antibiotic	2.00	21.67
+OprN	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	14.00	66.46
+GES-14	carbapenem; cephalosporin; penicillin beta-lactam	62.00	47.57
+sdiA	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	3.00	38.59
+mdtH	fluoroquinolone antibiotic	7.00	59.80
+lnuC	lincosamide antibiotic	2.00	57.37
+dfrA8	diaminopyrimidine antibiotic	8.00	85.88
+mtrE	macrolide antibiotic	17.00	21.01
+CARB-3	penicillin beta-lactam	2.00	22.40
+amrB	macrolide antibiotic; aminoglycoside antibiotic	43.00	44.89
+catP	phenicol antibiotic	9.00	14.90
+mdtA	aminocoumarin antibiotic	5.00	36.54
+APH(2'')-IVa	aminoglycoside antibiotic	15.00	82.56
+tet(B)	tetracycline antibiotic	4.00	29.85
+vanXY gene in vanG cluster	glycopeptide antibiotic	6.00	10.33
+macB	macrolide antibiotic	92.00	66.15
+OpmD	fluoroquinolone antibiotic; disinfecting agents and antiseptics	17.00	11.68
+tet(W)	tetracycline antibiotic	99.00	99.32
+AAC(3)-VIIIa	aminoglycoside antibiotic	9.00	35.54
+GES-9	carbapenem; cephalosporin; penicillin beta-lactam	2.00	34.14
+tetA(P)	tetracycline antibiotic	8.00	15.12
+OXA-32	cephalosporin; penicillin beta-lactam	2.00	30.68
+clbA	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	2.00	8.10
+mphF	macrolide antibiotic	1.00	11.00
+emrY	tetracycline antibiotic	21.00	70.63
+OXA-211	carbapenem; penicillin beta-lactam	109.00	100.00
+mdtG	phosphonic acid antibiotic	18.00	78.81
+adeJ	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	1236.00	87.57
+smeF	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic	56.00	83.65
+aadA25	aminoglycoside antibiotic	2.00	28.03
+aadA	aminoglycoside antibiotic	14.00	61.49
+eptA	peptide antibiotic	22.00	87.96
+emrK	tetracycline antibiotic	12.00	84.85
+AcrS	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	9.00	59.43
+CMY-54	cephalosporin	2.00	26.22
+OXA-347	penicillin beta-lactam	22.00	91.27
+Erm(42)	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	6.00	10.93
+cmlv	phenicol antibiotic	4.00	21.59
+TUS-1	carbapenem; cephalosporin; penicillin beta-lactam	3.00	16.20
+ErmF	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	67.00	100.00
+AAC(3)-Id	aminoglycoside antibiotic	8.00	61.43
+iri	rifamycin antibiotic	2.00	11.39
+lnuB	lincosamide antibiotic	12.00	85.20
+MexC	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	28.00	46.82
+AIM-1	cephalosporin; penicillin beta-lactam	7.00	61.40
+mdtB	aminocoumarin antibiotic	86.00	91.32
+APH(3')-Ib	aminoglycoside antibiotic	1.00	3.68
+adeB	glycylcycline; tetracycline antibiotic	11.00	36.62
+CRP	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam	27.00	96.37
+smeE	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic	335.00	97.63
+vanR gene in vanA cluster	glycopeptide antibiotic	2.00	27.30
+OXA-5	penicillin beta-lactam	14.00	88.93
+ANT(6)-Ia	aminoglycoside antibiotic	3.00	40.39
+AAC(6')-IIc	aminoglycoside antibiotic	8.00	54.47
+ErmX	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	2.00	16.84
+sul2	sulfonamide antibiotic	2.00	13.97
+OXA-129	penicillin beta-lactam	2.00	24.00
+QnrD1	fluoroquinolone antibiotic	6.00	31.01
+mecI	penicillin beta-lactam	7.00	40.86
+OXA-333	carbapenem; penicillin beta-lactam	233.00	100.00
+tet(X)	glycylcycline; tetracycline antibiotic	231.00	99.83
+tet(40)	tetracycline antibiotic	6.00	25.80
+tet(G)	tetracycline antibiotic	56.00	100.00
+RCP-1	penicillin beta-lactam	10.00	63.49
+ugd	peptide antibiotic	18.00	85.09
+ErmA	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	1.00	20.49
+ErmG	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	5.00	40.95
+OprJ	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	22.00	78.89
+EreA	macrolide antibiotic	20.00	95.74
+APH(6)-Id	aminoglycoside antibiotic	9.00	56.75
+cmlA1	phenicol antibiotic	10.00	53.10
+cmlB1	phenicol antibiotic	5.00	34.28
+sul1	sulfonamide antibiotic	10.00	48.10
+OXA-37	penicillin beta-lactam	1.00	4.49
+OXA-420	carbapenem; penicillin beta-lactam	6.00	68.21
+acrB	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	179.00	95.49
+ANT(6)-Ib	aminoglycoside antibiotic	5.00	59.67
+CGB-1	carbapenem; cephalosporin; penicillin beta-lactam	4.00	3.70
+OXA-2	cephalosporin; penicillin beta-lactam	65.00	100.00
+AAC(6')-Ib-SK	aminoglycoside antibiotic	3.00	20.72
+tet(39)	tetracycline antibiotic	616.00	100.00
+tet(V)	tetracycline antibiotic	8.00	31.75
+evgA	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam; tetracycline antibiotic	9.00	77.72
+AER-1	penicillin beta-lactam	9.00	82.51
+lsaB	lincosamide antibiotic; streptogramin antibiotic; pleuromutilin antibiotic	16.00	24.41
+aadA15	aminoglycoside antibiotic	20.00	26.77
+EBR-1	carbapenem; cephalosporin; penicillin beta-lactam	45.00	100.00
+tet(H)	tetracycline antibiotic	4.00	25.10
+mdtM	fluoroquinolone antibiotic; lincosamide antibiotic; nucleoside antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	19.00	76.80
+APH(3')-VIa	aminoglycoside antibiotic	35.00	98.59
+OXA-58	carbapenem; penicillin beta-lactam	14.00	97.86
+dfrA12	diaminopyrimidine antibiotic	2.00	40.56
+mphA	macrolide antibiotic	9.00	90.62
+MexE	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	17.00	69.08
+rosA	peptide antibiotic	3.00	29.85
+H-NS	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic	13.00	86.96
+lsaA	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic; pleuromutilin antibiotic	2.00	1.94
+AAC(6')-Ic	aminoglycoside antibiotic	5.00	24.04
+EreD	macrolide antibiotic	572.00	100.00
+tet(44)	tetracycline antibiotic	10.00	43.27
+mef(B)	macrolide antibiotic	20.00	95.69
+SAT-2	nucleoside antibiotic	2.00	32.76
+adeA	glycylcycline; tetracycline antibiotic	5.00	33.42
+mdtC	aminocoumarin antibiotic	80.00	87.36
+tet(Q)	tetracycline antibiotic	73.00	98.94
+tet(32)	tetracycline antibiotic	18.00	54.69
+emrR	fluoroquinolone antibiotic	22.00	100.00
+APH(3')-IIIa	aminoglycoside antibiotic	1.00	4.40
+mel	macrolide antibiotic; streptogramin antibiotic	228.00	100.00
+GES-5	carbapenem; cephalosporin; penicillin beta-lactam	2.00	5.32
+CTX-M-132	cephalosporin	2.00	26.03
+cmx	phenicol antibiotic	3.00	32.48
+evgS	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam; tetracycline antibiotic	33.00	53.62
+ceoB	fluoroquinolone antibiotic; aminoglycoside antibiotic	238.00	77.76
+OXA-119	penicillin beta-lactam	13.00	90.64
+aadA22	aminoglycoside antibiotic	11.00	30.43
+aadA5	aminoglycoside antibiotic	92.00	100.00
+SHV-94	cephalosporin; penicillin beta-lactam	2.00	35.08
+RbpA	rifamycin antibiotic	4.00	49.86
+mdtN	nucleoside antibiotic; disinfecting agents and antiseptics	8.00	63.66
+IND-9	carbapenem	5.00	5.00
+abeM	fluoroquinolone antibiotic; disinfecting agents and antiseptics	3.00	13.73
+QnrB26	fluoroquinolone antibiotic	2.00	44.35
+vanH gene in vanD cluster	glycopeptide antibiotic	1.00	2.37
+Bla1	penicillin beta-lactam	5.00	7.63
+AcrF	fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam	65.00	89.98
+ANT(2'')-Ia	aminoglycoside antibiotic	20.00	89.70
+AcrE	fluoroquinolone antibiotic; cephalosporin; penicillin beta-lactam	11.00	62.35
+OXA-209	penicillin beta-lactam	31.00	70.91
+smeA	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam	9.00	60.90
+EreA2	macrolide antibiotic	27.00	98.04
+GES-2	carbapenem; cephalosporin; penicillin beta-lactam	4.00	57.64
+Erm(43)	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin B antibiotic	7.00	8.20
+APH(6)-Ia	aminoglycoside antibiotic	8.00	8.12
+acrD	aminoglycoside antibiotic	141.00	94.32
+OXA-17	cephalosporin; penicillin beta-lactam	4.00	55.93
+OXA-10	cephalosporin; penicillin beta-lactam	347.00	100.00
+OXA-205	penicillin beta-lactam	27.00	100.00
+OXA-362	carbapenem; penicillin beta-lactam	4.00	36.82
+L1 beta-lactamase	cephalosporin	3.00	9.23
+MexD	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	249.00	73.08
+adeI	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	141.00	32.93
+lmrD	lincosamide antibiotic	4.00	20.35
+dfrA14	diaminopyrimidine antibiotic	69.00	85.23
+OprA	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; tetracycline antibiotic	65.00	43.73
+arnA	peptide antibiotic	18.00	61.29
+AAC(6')-If	aminoglycoside antibiotic	1.00	34.48
+tet(S)	tetracycline antibiotic	2.00	2.34
+CARB-8	penicillin beta-lactam	24.00	80.49
+adeK	macrolide antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	236.00	70.86
+macA	macrolide antibiotic	19.00	45.38
+aadA24	aminoglycoside antibiotic	7.00	20.90
+FosK	phosphonic acid antibiotic	2.00	6.27
+aadA7	aminoglycoside antibiotic	25.00	100.00
+ErmW	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	2.00	6.73
+ErmB	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	19.00	65.46
+lsaC	lincosamide antibiotic; streptogramin antibiotic; pleuromutilin antibiotic	4.00	26.17
+ceoA	fluoroquinolone antibiotic; aminoglycoside antibiotic	11.00	30.62
+emrA	fluoroquinolone antibiotic	33.00	70.59
+CTX-M-115	cephalosporin	1.00	17.12
+aadA11	aminoglycoside antibiotic	255.00	100.00
+Erm(33)	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; streptogramin B antibiotic	1.00	20.63
+mexY	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	159.00	48.93
+cphA3	carbapenem	1.00	4.84
+OXA-334	carbapenem; penicillin beta-lactam	26.00	53.82
+tet(36)	tetracycline antibiotic	9.00	52.78
+ramA	fluoroquinolone antibiotic; monobactam; carbapenem; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	7.00	98.13
+bacA	peptide antibiotic	11.00	63.87
+QnrS2	fluoroquinolone antibiotic	4.00	46.27
+OXA-20	penicillin beta-lactam	3.00	27.97
+linG	lincosamide antibiotic	8.00	72.99
+mdtE	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam	18.00	83.25
+EreB	macrolide antibiotic	5.00	36.98
+marA	fluoroquinolone antibiotic; monobactam; carbapenem; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	13.00	68.49
+lnuD	lincosamide antibiotic	7.00	59.19
+tet(M)	tetracycline antibiotic	5.00	14.17
+vgaB	streptogramin antibiotic; streptogramin A antibiotic; pleuromutilin antibiotic	20.00	8.92
+OXA-118	penicillin beta-lactam	4.00	36.70
+aadA16	aminoglycoside antibiotic	27.00	65.25
+MexB		276.00	79.31
+OXA-309	carbapenem; penicillin beta-lactam	28.00	87.88
+smeB	aminoglycoside antibiotic; cephalosporin; penicillin beta-lactam	194.00	63.81
+aadA6	aminoglycoside antibiotic	958.00	100.00
+aadA8	aminoglycoside antibiotic	9.00	60.10
+APH(3'')-Ib	aminoglycoside antibiotic	3.00	37.06
+OXA-246	cephalosporin; penicillin beta-lactam	2.00	33.96
+MdtK	fluoroquinolone antibiotic	4.00	30.53
+mdtO	nucleoside antibiotic; disinfecting agents and antiseptics	19.00	81.19
+aadA13	aminoglycoside antibiotic	9.00	59.40
+patA	fluoroquinolone antibiotic	7.00	33.10
+AAC(6')-Ib7	aminoglycoside antibiotic	39.00	43.51
+vanS gene in vanA cluster	glycopeptide antibiotic	15.00	5.19
+mtrD	macrolide antibiotic	66.00	44.26
+tet(T)	tetracycline antibiotic	6.00	24.74
+TriC	disinfecting agents and antiseptics	80.00	81.50
+PmrF	peptide antibiotic	12.00	67.70
+OpmH	disinfecting agents and antiseptics	48.00	98.83
+mexQ	macrolide antibiotic; carbapenem; tetracycline antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	89.00	64.07
+MexK	macrolide antibiotic; tetracycline antibiotic	290.00	99.06
+MexW	macrolide antibiotic; fluoroquinolone antibiotic; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	76.00	70.69
+mexM	phenicol antibiotic	3.00	11.14
+PEDO-2	carbapenem	5.00	11.31
+mexN	phenicol antibiotic	86.00	74.70
+CPS-1	carbapenem	11.00	79.61
+MexJ	macrolide antibiotic; tetracycline antibiotic	9.00	54.89
+mphG	macrolide antibiotic	369.00	100.00
+tet(O)	tetracycline antibiotic	40.00	91.56
+AAC(6')-Ib8	aminoglycoside antibiotic	4.00	37.32
+gadW	macrolide antibiotic; fluoroquinolone antibiotic; penicillin beta-lactam	10.00	58.71
+PEDO-1	carbapenem	11.00	15.91
+fusD	fusidane antibiotic	4.00	6.54
+MOX-9	cephalosporin; penicillin beta-lactam	9.00	43.14
+FRI-1	penicillin beta-lactam	4.00	4.63
+AAC(3)-IId	aminoglycoside antibiotic	2.00	15.45
+fusC	fusidane antibiotic	1.00	3.60
+AAC(6')-Im	aminoglycoside antibiotic	4.00	70.58
+oqxA	fluoroquinolone antibiotic; glycylcycline; tetracycline antibiotic; diaminopyrimidine antibiotic; nitrofuran antibiotic	22.00	78.57
+oqxB	fluoroquinolone antibiotic; glycylcycline; tetracycline antibiotic; diaminopyrimidine antibiotic; nitrofuran antibiotic	111.00	86.39
+aadA10	aminoglycoside antibiotic	16.00	98.80
+ACT-38	carbapenem; cephalosporin; penicillin beta-lactam	1.00	13.18
+msbA	nitroimidazole antibiotic	33.00	96.23
+ESP-1	carbapenem	9.00	39.29
+Mef(En2)	macrolide antibiotic; lincosamide antibiotic	5.00	24.30
+efpA	rifamycin antibiotic; isoniazid-like antibiotic	3.00	13.81
+kdpE	aminoglycoside antibiotic	12.00	100.00
+OXA-296	penicillin beta-lactam	5.00	54.27
+Staphylococcus aureus norA	fluoroquinolone antibiotic	22.00	14.31
+Staphylococcus aureus FosB	phosphonic acid antibiotic	4.00	12.62
+aadA27	aminoglycoside antibiotic	68.00	100.00
+hmrM	fluoroquinolone antibiotic; disinfecting agents and antiseptics	5.00	7.03
+MCR-9.1	peptide antibiotic	10.00	43.83
+lfrA	fluoroquinolone antibiotic	35.00	46.86
+tet(X4)	glycylcycline; tetracycline antibiotic	8.00	10.10
+mgtA	macrolide antibiotic	23.00	7.08
+Pseudomonas aeruginosa CpxR	macrolide antibiotic; fluoroquinolone antibiotic; monobactam; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; peptide antibiotic; aminocoumarin antibiotic; diaminopyrimidine antibiotic; sulfonamide antibiotic; phenicol antibiotic	145.00	86.14
+GOB-11	carbapenem; cephalosporin; penicillin beta-lactam	1.00	10.69
+tetA(46)	tetracycline antibiotic	5.00	16.52
+OpmB	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic	27.00	60.86
+OXA-373	carbapenem; penicillin beta-lactam	22.00	42.91
+adeL	fluoroquinolone antibiotic; tetracycline antibiotic	2.00	29.68
+Escherichia coli emrE	macrolide antibiotic	5.00	85.89
+Klebsiella pneumoniae acrA	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	14.00	83.29
+aphA15	aminoglycoside antibiotic	2.00	35.09
+Enterobacter cloacae acrA	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	5.00	42.46
+tva(A)	pleuromutilin antibiotic	5.00	23.32
+OXA-443	cephalosporin; penicillin beta-lactam	13.00	28.26
+OXA-448	penicillin beta-lactam	17.00	19.01
+floR	phenicol antibiotic	12.00	90.29
+aadS	aminoglycoside antibiotic	255.00	100.00
+Pseudomonas aeruginosa emrE	aminoglycoside antibiotic	10.00	94.29
+Escherichia coli acrA	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	6.00	37.94
+OprM	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	108.00	65.71
+BRO-1	penicillin beta-lactam	1.00	2.87
+PmpM	fluoroquinolone antibiotic; aminoglycoside antibiotic; disinfecting agents and antiseptics	10.00	37.24
+MuxC	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic	280.00	69.98
+ANT(3'')-IIa	aminoglycoside antibiotic	3.00	44.23
+QepA2	fluoroquinolone antibiotic	26.00	49.22
+MuxB	macrolide antibiotic; monobactam; tetracycline antibiotic; aminocoumarin antibiotic	670.00	94.22
+ANT(3'')-IIb	aminoglycoside antibiotic	40.00	12.25
+ANT(3'')-IIc	aminoglycoside antibiotic	18.00	84.03
+BRO-2	penicillin beta-lactam	12.00	62.33
+OprZ	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin	88.00	58.91
+BRP(MBL)	glycopeptide antibiotic	4.00	21.58
+NPS-1	cephalosporin; penicillin beta-lactam	1.00	18.90
+rpoB2	rifamycin antibiotic	369.00	72.00
+lnuG	lincosamide antibiotic	4.00	30.35
+MexF	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	375.00	99.59
+ADC-15	cephalosporin	4.00	15.97
+FosA6	phosphonic acid antibiotic	9.00	80.00
+tet(W/N/W)	tetracycline antibiotic	6.00	26.98
+Agrobacterium fabrum chloramphenicol acetyltransferase	phenicol antibiotic	1.00	4.44
+Enterococcus faecium chloramphenicol acetyltransferase	phenicol antibiotic	7.00	13.12
+Staphylococcus intermedius chloramphenicol acetyltransferase	phenicol antibiotic	37.00	13.89
+poxtA	tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic	79.00	20.38
+CGA-1	penicillin beta-lactam	10.00	20.71
+OXA-459	penicillin beta-lactam	2.00	2.05
+BKC-1	carbapenem	7.00	71.34
+cfrC	lincosamide antibiotic; streptogramin antibiotic; oxazolidinone antibiotic; phenicol antibiotic	5.00	60.68
+sul4	sulfonamide antibiotic	4.00	36.34
+AxyY	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin	393.00	60.74
+Escherichia coli mdfA	tetracycline antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	20.00	87.19
+BAT-1	cephalosporin	1.00	3.72
+mphH	macrolide antibiotic	4.00	7.25
+OXA-274	carbapenem; penicillin beta-lactam	2.00	27.78
+OXA-279	penicillin beta-lactam	2.00	35.95
+OXA-280	carbapenem; penicillin beta-lactam	71.00	97.58
+CME-1	penicillin beta-lactam	3.00	4.39
+GOB-8	carbapenem; cephalosporin; penicillin beta-lactam	1.00	3.09
+Klebsiella pneumoniae OmpK37	monobactam; carbapenem; cephalosporin; penicillin beta-lactam	48.00	89.60
+OXA-281	carbapenem; penicillin beta-lactam	17.00	73.94
+EBR-2	carbapenem; cephalosporin; penicillin beta-lactam	52.00	100.00
+mphE	macrolide antibiotic	2232.00	100.00
+Klebsiella pneumoniae KpnE	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic; disinfecting agents and antiseptics	26.00	87.60
+Klebsiella pneumoniae KpnG	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; peptide antibiotic	22.00	79.88
+Klebsiella pneumoniae KpnH	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penicillin beta-lactam; peptide antibiotic	28.00	82.98
+qacE	disinfecting agents and antiseptics	7.00	61.56
+qacEdelta1	disinfecting agents and antiseptics	7.00	79.31
+ICR-Mo	peptide antibiotic	1440.00	100.00
+APH(3')-VIb	aminoglycoside antibiotic	3.00	42.05
+Acinetobacter baumannii AmvA	macrolide antibiotic; disinfecting agents and antiseptics	8.00	40.84
+YajC	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; oxazolidinone antibiotic; glycopeptide antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	12.00	99.71
+cmlA9	phenicol antibiotic	22.00	91.19
+MecC-type methicillin resistance repressor MecI	penicillin beta-lactam	3.00	16.80
+eptB	peptide antibiotic	33.00	83.01
+ArnT	peptide antibiotic	16.00	77.60
+FRI-9	penicillin beta-lactam	2.00	3.16
+Klebsiella pneumoniae KpnF	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic; disinfecting agents and antiseptics	4.00	63.64
+rsmA	fluoroquinolone antibiotic; diaminopyrimidine antibiotic; phenicol antibiotic	3.00	93.01
+msrH	macrolide antibiotic; streptogramin antibiotic	4.00	4.04
+RanB	aminoglycoside antibiotic	76.00	84.51
+RanA	aminoglycoside antibiotic	29.00	79.02
+OXA-899	cephalosporin; penicillin beta-lactam	6.00	15.82
+mecC-type BlaZ	penicillin beta-lactam	4.00	5.05
+qacH	disinfecting agents and antiseptics	3.00	46.91
+qacL	disinfecting agents and antiseptics	390.00	100.00
+23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A)	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	3.00	61.61
+OXA-668	carbapenem; penicillin beta-lactam	33.00	99.41
+OmpA	peptide antibiotic	39.00	98.84
+LptD	carbapenem; peptide antibiotic; aminocoumarin antibiotic; rifamycin antibiotic	53.00	88.93
+CMY-144	cephalosporin	2.00	14.92
+FosA7.5	phosphonic acid antibiotic	1.00	24.82
+OXA-779	penicillin beta-lactam	3.00	41.70
+OXA-648	carbapenem; penicillin beta-lactam	4.00	12.38
+OXA-646	carbapenem; penicillin beta-lactam	1.00	9.05
+SHV-224	cephalosporin; penicillin beta-lactam	2.00	21.02
+GPC-1	carbapenem	21.00	100.00
+BlaB-2	carbapenem; penicillin beta-lactam	4.00	34.40
+BSU-1	carbapenem	1.00	3.36
+CARB-50	penicillin beta-lactam	15.00	71.68
+ACT-45	carbapenem; cephalosporin; penicillin beta-lactam	2.00	26.27
+BlaB-24	carbapenem; penicillin beta-lactam	2.00	20.13
+EC-18	cephalosporin	3.00	39.51
+EC-19	cephalosporin	4.00	33.42
+EC-8	cephalosporin	1.00	13.23
+EC-5	cephalosporin	2.00	26.28
+GIL-1	carbapenem; cephalosporin	2.00	28.69
+EBR-3	carbapenem; cephalosporin; penicillin beta-lactam	20.00	80.65
+EBR-4	carbapenem; cephalosporin; penicillin beta-lactam	2.00	32.06
+CDD-2	carbapenem	8.00	6.90
+IMI-21	carbapenem	10.00	8.87
+IMP-89	carbapenem; cephalosporin; penicillin beta-lactam	1.00	3.51
+MOX-14	cephalosporin; penicillin beta-lactam	1.00	12.97
+MYO-1	carbapenem	2.00	9.49
+OXA-114h	penicillin beta-lactam	5.00	8.94
+OXA-491	penicillin beta-lactam	1.00	2.89
+OXA-498	carbapenem; penicillin beta-lactam	68.00	98.91
+OXA-551	penicillin beta-lactam	2.00	26.13
+OXA-534	cephalosporin; penicillin beta-lactam	2.00	36.34
+OXA-605	penicillin beta-lactam	2.00	3.59
+OXA-643	carbapenem; penicillin beta-lactam	66.00	100.00
+OXA-645	carbapenem; penicillin beta-lactam	39.00	97.82
+OXA-652	carbapenem; penicillin beta-lactam	51.00	88.12
+OXA-658	penicillin beta-lactam	1.00	3.19
+OXA-667	carbapenem; penicillin beta-lactam	15.00	76.83
+OXA-666	penicillin beta-lactam	1.00	17.19
+OXA-675	cephalosporin; penicillin beta-lactam	19.00	37.79
+OXA-732	penicillin beta-lactam	92.00	100.00
+OXA-651	carbapenem; penicillin beta-lactam	97.00	100.00
+OXA-819	carbapenem; penicillin beta-lactam	2.00	4.87
+OXA-827	cephalosporin; penicillin beta-lactam	8.00	21.22
+OXA-644	carbapenem; penicillin beta-lactam	4.00	42.30
+OXA-662	carbapenem; penicillin beta-lactam	31.00	99.15
+OXA-896	penicillin beta-lactam	3.00	34.91
+OXA-917	carbapenem; penicillin beta-lactam	5.00	59.25
+OXA-676	cephalosporin; penicillin beta-lactam	2.00	22.85
+OXA-650	carbapenem; penicillin beta-lactam	107.00	100.00
+PDC-133	monobactam; carbapenem; cephalosporin	16.00	17.34
+PDC-457	monobactam; carbapenem; cephalosporin	2.00	4.69
+PLN-1	carbapenem	6.00	12.53
+OXA-947	carbapenem; penicillin beta-lactam	7.00	4.83
+PAU-1	carbapenem; cephalosporin	4.00	37.41
+RUB-1	cephalosporin	10.00	9.36
+MCR-10.3	peptide antibiotic	2.00	18.52
+VEB-11	monobactam; cephalosporin	4.00	39.56
+mdeA	fluoroquinolone antibiotic; aminoglycoside antibiotic; penicillin beta-lactam; tetracycline antibiotic; disinfecting agents and antiseptics	3.00	15.42
+sepA	disinfecting agents and antiseptics	2.00	3.59
+Alkalihalobacillus clausii chloramphenicol acetyltransferase	phenicol antibiotic	34.00	23.73
+fexB	phenicol antibiotic	3.00	2.34
+MexI	fluoroquinolone antibiotic; disinfecting agents and antiseptics	84.00	55.02
+MexG		12.00	28.41
+Bifidobacterium bifidum ileS conferring resistance to mupirocin	mupirocin-like antibiotic	42.00	68.53
+YEM-1	carbapenem	3.00	6.34
+TolC	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; glycylcycline; penicillin beta-lactam; tetracycline antibiotic; peptide antibiotic; aminocoumarin antibiotic; rifamycin antibiotic; phenicol antibiotic; disinfecting agents and antiseptics	25.00	91.06
+Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin	rifamycin antibiotic	444.00	83.35
+YojI	peptide antibiotic	31.00	72.57
+vanY gene in vanG cluster	glycopeptide antibiotic	10.00	5.48
+vanTm gene in vanL cluster	glycopeptide antibiotic	1.00	1.92
+vanR gene in vanN cluster	glycopeptide antibiotic	1.00	2.45
+cph	aminoglycoside antibiotic	2.00	2.72
+LnuH	lincosamide antibiotic	290.00	100.00
+tet(O/32/O)	tetracycline antibiotic	15.00	45.21
+tet(O/W)	tetracycline antibiotic	2.00	15.73
+tet(O/W/32/O)	tetracycline antibiotic	3.00	19.69
+tet(X3)	glycylcycline; tetracycline antibiotic	65.00	55.01
+mef(J)	macrolide antibiotic	20.00	97.82
+tet(W/32/O)	tetracycline antibiotic	7.00	29.69
+AAC(6')-Ie-APH(2'')-Ia bifunctional protein	aminoglycoside antibiotic	17.00	64.31
+tet(O/M/O)	tetracycline antibiotic	7.00	19.01
+Mrx	macrolide antibiotic	26.00	85.39
+PJM-1	carbapenem; cephalosporin; penicillin beta-lactam	9.00	60.38
+leuO	nucleoside antibiotic; disinfecting agents and antiseptics	12.00	87.51
+ANT(3'')-II-AAC(6')-IId bifunctional protein	aminoglycoside antibiotic	21.00	42.39
+tet(63)	tetracycline antibiotic	7.00	8.12
+mef(E)	macrolide antibiotic	3.00	27.56
+mef(C)	macrolide antibiotic; tetracycline antibiotic	717.00	100.00
+catA1	phenicol antibiotic	4.00	31.97
+Clostridioides difficile cplR	lincosamide antibiotic; streptogramin antibiotic; streptogramin A antibiotic; nucleoside antibiotic	4.00	2.48
+Clostridium sporogenes cplR	lincosamide antibiotic; antibiotic without defined classification; pleuromutilin antibiotic	9.00	7.84
+RAD-1	carbapenem; cephalosporin	1.00	3.47
+aadT	macrolide antibiotic; tetracycline antibiotic; disinfecting agents and antiseptics	2.00	19.74
+RATA-1	carbapenem	34.00	100.00
+RATA-2	carbapenem	5.00	48.63
+CARB-56	penicillin beta-lactam	6.00	5.87
+CARB-58	penicillin beta-lactam	14.00	91.72
+CHM-1	carbapenem; cephalosporin	1.00	3.43
+ACT-190	carbapenem; cephalosporin; penicillin beta-lactam	2.00	17.36
+GES-51	carbapenem; cephalosporin; penicillin beta-lactam	195.00	96.76
+AIM-2	cephalosporin; penicillin beta-lactam	9.00	58.22
+EstT	macrolide antibiotic	2.00	32.79
+ADC-277	cephalosporin	45.00	11.54
+MdtQ	monobactam; carbapenem; cephalosporin; penicillin beta-lactam	16.00	68.82
+CME-3	penicillin beta-lactam	2.00	27.67
+CMY-188	cephalosporin	1.00	12.83
+IMP-90	carbapenem; cephalosporin; penicillin beta-lactam	1.00	3.37
+MOX-15	cephalosporin; penicillin beta-lactam	2.00	25.26
+OXA-1044	carbapenem; penicillin beta-lactam	12.00	28.48
+OXA-1101	penicillin beta-lactam	16.00	12.96
+OXA-1108	penicillin beta-lactam	45.00	83.86
+OXA-1122	carbapenem; penicillin beta-lactam	88.00	15.42
+OXA-1112	carbapenem; penicillin beta-lactam	2.00	27.68
+OXA-1016	carbapenem; penicillin beta-lactam	2.00	25.97
+OXA-1158	penicillin beta-lactam	2.00	37.86
+OXA-1171	cephalosporin; penicillin beta-lactam	2.00	15.86
+OXA-1208	carbapenem; penicillin beta-lactam	7.00	34.30
+OXA-1251	penicillin beta-lactam	8.00	18.06
+OXA-1261	penicillin beta-lactam	1.00	2.26
+OXA-1173	cephalosporin; penicillin beta-lactam	1.00	4.47
+OXA-1175	cephalosporin; penicillin beta-lactam	96.00	100.00
+OXA-999	penicillin beta-lactam	2.00	2.02
+OXY-1-19	monobactam; cephalosporin; penicillin beta-lactam	4.00	22.49
+OXA-944	carbapenem; penicillin beta-lactam	5.00	55.67
+OXY-12-1	monobactam; cephalosporin; penicillin beta-lactam	1.00	3.21
+RASA-1	cephalosporin	27.00	91.44
+RAA-1	cephalosporin	2.00	19.36

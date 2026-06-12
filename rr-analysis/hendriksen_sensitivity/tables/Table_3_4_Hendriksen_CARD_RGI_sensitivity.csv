@@ -1,0 +1,2 @@
+sample_accession,hendriksen_sample_id,truth_set_file,truth_set_sheet,truth_set_level,detection_tool,card_version,detection_rule,reference_classes,recovered_classes,missed_classes,sensitivity_percent
+ERR1713332,AUS.18,41467_2019_8853_MOESM7_ESM.xlsx,ResFind.Gene.count,ARG drug class,CARD/RGI BWT KMA,4.0.1,RGI detected Drug Class from CARD gene_mapping_data; beta-lactam subclasses normalized to beta-lactam antibiotic; class counted recovered if present in CARD/RGI output,11,11,0,100.00

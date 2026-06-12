@@ -1,0 +1,20 @@
+Selected Stage 3.3 Bowtie2-cleaned FASTQ pair for Stage 3.4 CARD/RGI test
+
+Sample ID:
+ERR1713332
+
+Reason selected:
+Production decontamination reference: GRCh38p14_PhiX174_pUC19_pBR322_UniVec_v1.0
+
+Host-removal work directory:
+/rsstu/users/s/sleblan/MismatchRepair/Project/pipeline/rr-pipeline/work/3e/aaf03a157aaa38d59aa8a65f1aca43
+
+Clean R1:
+/rsstu/users/s/sleblan/MismatchRepair/Project/pipeline/rr-pipeline/work/3e/aaf03a157aaa38d59aa8a65f1aca43/ERR1713332_bowtie2_clean_R1.fastq.gz
+
+Clean R2:
+/rsstu/users/s/sleblan/MismatchRepair/Project/pipeline/rr-pipeline/work/3e/aaf03a157aaa38d59aa8a65f1aca43/ERR1713332_bowtie2_clean_R2.fastq.gz
+
+Stage 3.3 host-removal summary:
+sample_id	stage	tool	tool_version	bowtie2_mode	bowtie2_preset	decontamination_reference	bowtie2_index	input_read_pairs	concordantly_unmapped_pairs	concordantly_mapped_once	concordantly_mapped_multi	overall_alignment_rate_percent	percent_removed	final_clean_read_pairs	clean_R1	clean_R2	status
+ERR1713332	host_removal	bowtie2	2.5.3	paired_end	very_sensitive_local	GRCh38p14_PhiX174_pUC19_pBR322_UniVec_v1.0	/rsstu/users/s/sleblan/MismatchRepair/Project/references/decontamination/v1.0/decontamination_v1.0	13989393	13881133	3157	105103	0.87	0.87	13881133	ERR1713332_bowtie2_clean_R1.fastq.gz	ERR1713332_bowtie2_clean_R2.fastq.gz	completed

@@ -1,0 +1,14 @@
+Date:
+Sun Jun  7 06:10:17 PM EDT 2026
+
+CARD database version:
+4.0.1
+
+CARD reference path:
+/rsstu/users/s/sleblan/MismatchRepair/Project/references/card
+
+CARD FASTA used:
+card_database_v4.0.1.fasta
+
+Local RGI database path:
+/rsstu/users/s/sleblan/MismatchRepair/Project/references/card/localDB

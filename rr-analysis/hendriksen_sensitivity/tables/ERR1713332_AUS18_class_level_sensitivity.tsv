@@ -1,0 +1,12 @@
+reference_class	detected_by_CARD_RGI
+aminoglycoside antibiotic	True
+beta-lactam antibiotic	True
+diaminopyrimidine antibiotic	True
+fluoroquinolone antibiotic	True
+lincosamide antibiotic	True
+macrolide antibiotic	True
+phenicol antibiotic	True
+phosphonic acid antibiotic	True
+rifamycin antibiotic	True
+sulfonamide antibiotic	True
+tetracycline antibiotic	True

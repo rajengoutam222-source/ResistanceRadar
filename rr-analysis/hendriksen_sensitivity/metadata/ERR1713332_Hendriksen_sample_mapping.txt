@@ -1,0 +1,22 @@
+Hendriksen accession-to-sample mapping for Stage 3.4 sensitivity analysis
+
+ENA project:
+ERP015409
+
+ENA run accession:
+ERR1713332
+
+Mapped Hendriksen sample/site ID:
+AUS.18
+
+Reason:
+Hendriksen metadata table lists AUS.18 as Australia, Canberra, collection date 02-04-2016. AUS.18a is Melbourne, collection date 02-08-2016. ERR1713332 is therefore assigned to AUS.18 for the one-sample CARD/RGI sensitivity analysis.
+
+Truth-set file:
+rr-analysis/hendriksen_sensitivity/truth_set/41467_2019_8853_MOESM7_ESM.xlsx
+
+Truth-set sheet:
+ResFind.Gene.count
+
+Truth-set rule:
+Reference ARG gene is present in AUS.18 if ResFind.Gene.count > 0.

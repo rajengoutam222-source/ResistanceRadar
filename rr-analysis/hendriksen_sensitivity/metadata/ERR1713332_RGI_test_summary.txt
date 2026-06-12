@@ -1,0 +1,40 @@
+Stage 3.4 one-sample CARD/RGI BWT test summary
+
+Sample ID:
+ERR1713332
+
+Input:
+Stage 3.3 Bowtie2-cleaned paired-end FASTQ files
+
+RGI output directory:
+rr-analysis/hendriksen_sensitivity/rgi_ERR1713332_test
+
+CARD version:
+CARD database version:
+4.0.1
+
+RGI mapping summary:
+
+**********************************************
+Stats for BAM file(s): 
+**********************************************
+
+Total reads:       27762266
+Mapped reads:      29521	(0.106335%)
+Forward strand:    3073583	(11.0711%)
+Reverse strand:    24688683	(88.9289%)
+Failed QC:         0	(0%)
+Duplicates:        0	(0%)
+Paired-end reads:  27762266	(100%)
+'Proper-pairs':    1063516	(3.8308%)
+Both pairs mapped: 22940	(0.0826301%)
+Read 1:            13881133
+Read 2:            13881133
+Singletons:        6581	(0.0237048%)
+
+
+Gene-level CARD rows detected:
+467
+
+Unique RGI drug classes detected:
+31

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="white"/>
+
+  <text x="450" y="55" text-anchor="middle" font-family="Arial" font-size="26" font-weight="bold">
+    Preliminary Hendriksen CARD/RGI ARG Class-Level Sensitivity
+  </text>
+
+  <text x="450" y="88" text-anchor="middle" font-family="Arial" font-size="16">
+    Preliminary one-sample analysis: ERR1713332 mapped to Hendriksen AUS.18
+  </text>
+
+  <text x="120" y="145" font-family="Arial" font-size="18" font-weight="bold">
+    Reference ARG drug classes recovered
+  </text>
+
+  <rect x="120" y="175" width="640" height="55" fill="#e6e6e6" stroke="#333333" stroke-width="1"/>
+  <rect x="120" y="175" width="640" height="55" fill="#2ca25f"/>
+
+  <text x="440" y="211" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="white">
+    11 / 11 recovered
+  </text>
+
+  <text x="120" y="270" font-family="Arial" font-size="18" font-weight="bold">
+    Sensitivity
+  </text>
+
+  <text x="120" y="325" font-family="Arial" font-size="58" font-weight="bold" fill="#2ca25f">
+    100.00%
+  </text>
+
+  <text x="120" y="370" font-family="Arial" font-size="16">
+    Truth set: Hendriksen Supplementary Data 4, ResFind.Gene.count; AUS.18 genes with count &gt; 0
+  </text>
+
+  <text x="120" y="398" font-family="Arial" font-size="16">
+    Detection: CARD/RGI BWT-KMA against CARD v4.0.1 using detected Drug Class values
+  </text>
+
+  <text x="120" y="426" font-family="Arial" font-size="16">
+    Comparison level: ARG drug class; beta-lactam subclasses normalized to beta-lactam antibiotic
+  </text>
+
+  <text x="120" y="468" font-family="Arial" font-size="14" fill="#555555">
+    Note: preliminary one-sample research analysis; not a validated full ResistanceRadar benchmark.
+  </text>
+</svg>
