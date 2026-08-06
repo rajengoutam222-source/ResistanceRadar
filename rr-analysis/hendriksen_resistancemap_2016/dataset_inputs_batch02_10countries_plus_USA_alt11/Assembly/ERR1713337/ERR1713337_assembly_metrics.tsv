@@ -1,0 +1,2 @@
+sample_id	contig_count	total_length_bp	minimum_contig_bp	maximum_contig_bp	mean_contig_bp	median_contig_bp	N50_bp	L50	GC_percent	source_fasta_bytes
+ERR1713337	130696	311947701	1000	200692	2386.82	1451.00	2628	23409	48.1982	317558945
