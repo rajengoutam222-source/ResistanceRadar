@@ -8,7 +8,7 @@ E_9-10	Kathmandu18	batch02	YES
 I_1-2	Kathmandu18	batch02	YES
 I_11-12	Kathmandu18	batch02	YES
 I_3-4	Kathmandu18	batch01	YES
-I_5-6	Kathmandu18	separate_large_sample	NO
+I_5-6	Kathmandu18	separate_large_sample	YES
 I_7-8	Kathmandu18	batch02	YES
 I_9-10	Kathmandu18	batch02	YES
 RW_1	Kathmandu18	batch02	YES

@@ -1,24 +1,25 @@
 Kathmandu KBase 18-Sample Standardized Analysis Release
 ==========================================================
 
-Generated: 2026-08-04T00:08:17Z
+Generated: 2026-08-06T17:48:03Z
 Unique samples: 18
-Portable stage files: 269
+Portable stage files: 270
 Symbolic links: 0
 
 Important FASTP note
 --------------------
-FASTP JSON reports are available for 17 of 18 samples. The I_5-6 FASTP
-report was not found after that large sample was processed separately.
-All downstream stages are complete for I_5-6 and all other samples.
-
+FASTP JSON reports are available for all 18 samples. The I_5-6 report
+was regenerated on 2026-08-06 by streaming the original KBase
+interleaved FASTQ ZIP through fastp v1.3.3 in report-only mode.
+Filtered FASTQ output was discarded, and the existing Bowtie2 and
+downstream results were not rerun or changed.
 For E_1-2, the interleaved FASTP result was selected instead of the older
 paired-file result to prevent duplicate delivery.
 
 Release contents
 ----------------
 FASTP
-  FASTP JSON reports for 17 available samples.
+  FASTP JSON reports for all 18 samples.
 
 Bowtie2
   Bowtie2 decontamination summary files for all 18 samples.
@@ -64,7 +65,7 @@ diamond_card_summary_provenance.tsv
 
 Stage file counts
 -----------------
-FASTP: 17
+FASTP: 18
 Bowtie2: 18
 CARD_RGI_BWT: 36
 DIAMOND_CARD: 36
