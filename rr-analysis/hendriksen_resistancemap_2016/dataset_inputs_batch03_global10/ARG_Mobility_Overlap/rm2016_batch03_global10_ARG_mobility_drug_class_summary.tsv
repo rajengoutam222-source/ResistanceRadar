@@ -1,0 +1,216 @@
+set	sample_id	Drug_Class	ARG_hits	mobile_context_ARG_hits
+RM2016_batch03_global10	ERR1713346	aminocoumarin antibiotic	4	3
+RM2016_batch03_global10	ERR1713346	aminoglycoside antibiotic	10	3
+RM2016_batch03_global10	ERR1713346	carbapenem	6	2
+RM2016_batch03_global10	ERR1713346	cephalosporin	20	4
+RM2016_batch03_global10	ERR1713346	cephamycin	9	1
+RM2016_batch03_global10	ERR1713346	diaminopyrimidine antibiotic	4	1
+RM2016_batch03_global10	ERR1713346	disinfecting agents and antiseptics	27	3
+RM2016_batch03_global10	ERR1713346	fluoroquinolone antibiotic	32	6
+RM2016_batch03_global10	ERR1713346	glycopeptide antibiotic	82	1
+RM2016_batch03_global10	ERR1713346	glycylcycline	11	3
+RM2016_batch03_global10	ERR1713346	lincosamide antibiotic	9	1
+RM2016_batch03_global10	ERR1713346	macrolide antibiotic	18	0
+RM2016_batch03_global10	ERR1713346	monobactam	3	1
+RM2016_batch03_global10	ERR1713346	nitrofuran antibiotic	1	0
+RM2016_batch03_global10	ERR1713346	nitroimidazole antibiotic	8	1
+RM2016_batch03_global10	ERR1713346	nucleoside antibiotic	5	0
+RM2016_batch03_global10	ERR1713346	penam	24	4
+RM2016_batch03_global10	ERR1713346	penem	4	2
+RM2016_batch03_global10	ERR1713346	peptide antibiotic	8	1
+RM2016_batch03_global10	ERR1713346	phenicol antibiotic	13	3
+RM2016_batch03_global10	ERR1713346	phosphonic acid antibiotic	2	0
+RM2016_batch03_global10	ERR1713346	pleuromutilin antibiotic	1	0
+RM2016_batch03_global10	ERR1713346	rifamycin antibiotic	11	2
+RM2016_batch03_global10	ERR1713346	streptogramin A antibiotic	2	0
+RM2016_batch03_global10	ERR1713346	streptogramin B antibiotic	2	0
+RM2016_batch03_global10	ERR1713346	streptogramin antibiotic	4	0
+RM2016_batch03_global10	ERR1713346	sulfonamide antibiotic	1	1
+RM2016_batch03_global10	ERR1713346	tetracycline antibiotic	33	5
+RM2016_batch03_global10	ERR1713370	aminocoumarin antibiotic	4	0
+RM2016_batch03_global10	ERR1713370	aminoglycoside antibiotic	20	7
+RM2016_batch03_global10	ERR1713370	carbapenem	11	2
+RM2016_batch03_global10	ERR1713370	cephalosporin	24	5
+RM2016_batch03_global10	ERR1713370	cephamycin	9	2
+RM2016_batch03_global10	ERR1713370	diaminopyrimidine antibiotic	2	1
+RM2016_batch03_global10	ERR1713370	disinfecting agents and antiseptics	34	5
+RM2016_batch03_global10	ERR1713370	fluoroquinolone antibiotic	42	4
+RM2016_batch03_global10	ERR1713370	glycopeptide antibiotic	118	0
+RM2016_batch03_global10	ERR1713370	glycylcycline	9	0
+RM2016_batch03_global10	ERR1713370	lincosamide antibiotic	13	6
+RM2016_batch03_global10	ERR1713370	macrolide antibiotic	20	7
+RM2016_batch03_global10	ERR1713370	monobactam	3	0
+RM2016_batch03_global10	ERR1713370	nitrofuran antibiotic	1	0
+RM2016_batch03_global10	ERR1713370	nitroimidazole antibiotic	22	1
+RM2016_batch03_global10	ERR1713370	nucleoside antibiotic	8	3
+RM2016_batch03_global10	ERR1713370	oxazolidinone antibiotic	1	0
+RM2016_batch03_global10	ERR1713370	penam	30	5
+RM2016_batch03_global10	ERR1713370	penem	4	1
+RM2016_batch03_global10	ERR1713370	peptide antibiotic	4	1
+RM2016_batch03_global10	ERR1713370	phenicol antibiotic	19	3
+RM2016_batch03_global10	ERR1713370	pleuromutilin antibiotic	1	1
+RM2016_batch03_global10	ERR1713370	rifamycin antibiotic	8	0
+RM2016_batch03_global10	ERR1713370	streptogramin A antibiotic	4	2
+RM2016_batch03_global10	ERR1713370	streptogramin B antibiotic	4	2
+RM2016_batch03_global10	ERR1713370	streptogramin antibiotic	6	4
+RM2016_batch03_global10	ERR1713370	sulfonamide antibiotic	4	1
+RM2016_batch03_global10	ERR1713370	tetracycline antibiotic	50	4
+RM2016_batch03_global10	ERR1713382	aminoglycoside antibiotic	7	2
+RM2016_batch03_global10	ERR1713382	carbapenem	11	2
+RM2016_batch03_global10	ERR1713382	cephalosporin	18	2
+RM2016_batch03_global10	ERR1713382	cephamycin	2	0
+RM2016_batch03_global10	ERR1713382	diaminopyrimidine antibiotic	1	0
+RM2016_batch03_global10	ERR1713382	disinfecting agents and antiseptics	67	9
+RM2016_batch03_global10	ERR1713382	elfamycin antibiotic	1	0
+RM2016_batch03_global10	ERR1713382	fluoroquinolone antibiotic	44	4
+RM2016_batch03_global10	ERR1713382	glycopeptide antibiotic	56	2
+RM2016_batch03_global10	ERR1713382	glycylcycline	11	0
+RM2016_batch03_global10	ERR1713382	lincosamide antibiotic	4	0
+RM2016_batch03_global10	ERR1713382	macrolide antibiotic	8	0
+RM2016_batch03_global10	ERR1713382	penam	18	2
+RM2016_batch03_global10	ERR1713382	peptide antibiotic	15	1
+RM2016_batch03_global10	ERR1713382	phenicol antibiotic	11	0
+RM2016_batch03_global10	ERR1713382	phosphonic acid antibiotic	5	3
+RM2016_batch03_global10	ERR1713382	pleuromutilin antibiotic	1	0
+RM2016_batch03_global10	ERR1713382	rifamycin antibiotic	10	0
+RM2016_batch03_global10	ERR1713382	streptogramin A antibiotic	1	0
+RM2016_batch03_global10	ERR1713382	streptogramin B antibiotic	1	0
+RM2016_batch03_global10	ERR1713382	streptogramin antibiotic	3	0
+RM2016_batch03_global10	ERR1713382	tetracycline antibiotic	42	5
+RM2016_batch03_global10	ERR1713385	aminocoumarin antibiotic	2	0
+RM2016_batch03_global10	ERR1713385	aminoglycoside antibiotic	16	3
+RM2016_batch03_global10	ERR1713385	carbapenem	11	3
+RM2016_batch03_global10	ERR1713385	cephalosporin	24	7
+RM2016_batch03_global10	ERR1713385	cephamycin	7	3
+RM2016_batch03_global10	ERR1713385	diaminopyrimidine antibiotic	3	0
+RM2016_batch03_global10	ERR1713385	disinfecting agents and antiseptics	30	6
+RM2016_batch03_global10	ERR1713385	elfamycin antibiotic	1	0
+RM2016_batch03_global10	ERR1713385	fluoroquinolone antibiotic	29	6
+RM2016_batch03_global10	ERR1713385	glycopeptide antibiotic	108	2
+RM2016_batch03_global10	ERR1713385	glycylcycline	7	2
+RM2016_batch03_global10	ERR1713385	lincosamide antibiotic	13	4
+RM2016_batch03_global10	ERR1713385	macrolide antibiotic	22	3
+RM2016_batch03_global10	ERR1713385	monobactam	3	1
+RM2016_batch03_global10	ERR1713385	nitroimidazole antibiotic	2	1
+RM2016_batch03_global10	ERR1713385	nucleoside antibiotic	5	3
+RM2016_batch03_global10	ERR1713385	oxazolidinone antibiotic	1	0
+RM2016_batch03_global10	ERR1713385	penam	29	7
+RM2016_batch03_global10	ERR1713385	penem	3	2
+RM2016_batch03_global10	ERR1713385	peptide antibiotic	8	1
+RM2016_batch03_global10	ERR1713385	phenicol antibiotic	16	4
+RM2016_batch03_global10	ERR1713385	phosphonic acid antibiotic	5	0
+RM2016_batch03_global10	ERR1713385	rifamycin antibiotic	9	2
+RM2016_batch03_global10	ERR1713385	streptogramin A antibiotic	3	0
+RM2016_batch03_global10	ERR1713385	streptogramin B antibiotic	3	0
+RM2016_batch03_global10	ERR1713385	streptogramin antibiotic	4	0
+RM2016_batch03_global10	ERR1713385	sulfonamide antibiotic	1	0
+RM2016_batch03_global10	ERR1713385	tetracycline antibiotic	29	6
+RM2016_batch03_global10	ERR1713386	aminocoumarin antibiotic	7	3
+RM2016_batch03_global10	ERR1713386	aminoglycoside antibiotic	26	6
+RM2016_batch03_global10	ERR1713386	carbapenem	21	2
+RM2016_batch03_global10	ERR1713386	cephalosporin	61	9
+RM2016_batch03_global10	ERR1713386	cephamycin	23	3
+RM2016_batch03_global10	ERR1713386	diaminopyrimidine antibiotic	10	1
+RM2016_batch03_global10	ERR1713386	disinfecting agents and antiseptics	76	14
+RM2016_batch03_global10	ERR1713386	elfamycin antibiotic	2	0
+RM2016_batch03_global10	ERR1713386	fluoroquinolone antibiotic	96	19
+RM2016_batch03_global10	ERR1713386	glycopeptide antibiotic	53	1
+RM2016_batch03_global10	ERR1713386	glycylcycline	22	5
+RM2016_batch03_global10	ERR1713386	lincosamide antibiotic	9	5
+RM2016_batch03_global10	ERR1713386	macrolide antibiotic	40	6
+RM2016_batch03_global10	ERR1713386	monobactam	9	1
+RM2016_batch03_global10	ERR1713386	nitroimidazole antibiotic	9	1
+RM2016_batch03_global10	ERR1713386	nucleoside antibiotic	8	2
+RM2016_batch03_global10	ERR1713386	penam	65	6
+RM2016_batch03_global10	ERR1713386	penem	9	1
+RM2016_batch03_global10	ERR1713386	peptide antibiotic	31	4
+RM2016_batch03_global10	ERR1713386	phenicol antibiotic	31	7
+RM2016_batch03_global10	ERR1713386	phosphonic acid antibiotic	7	2
+RM2016_batch03_global10	ERR1713386	pleuromutilin antibiotic	1	1
+RM2016_batch03_global10	ERR1713386	rifamycin antibiotic	31	7
+RM2016_batch03_global10	ERR1713386	streptogramin A antibiotic	2	1
+RM2016_batch03_global10	ERR1713386	streptogramin B antibiotic	3	2
+RM2016_batch03_global10	ERR1713386	streptogramin antibiotic	5	3
+RM2016_batch03_global10	ERR1713386	sulfonamide antibiotic	2	0
+RM2016_batch03_global10	ERR1713386	tetracycline antibiotic	83	19
+RM2016_batch03_global10	ERR1725938	aminoglycoside antibiotic	10	5
+RM2016_batch03_global10	ERR1725938	carbapenem	5	1
+RM2016_batch03_global10	ERR1725938	cephalosporin	6	1
+RM2016_batch03_global10	ERR1725938	cephamycin	1	0
+RM2016_batch03_global10	ERR1725938	disinfecting agents and antiseptics	15	3
+RM2016_batch03_global10	ERR1725938	fluoroquinolone antibiotic	7	2
+RM2016_batch03_global10	ERR1725938	glycopeptide antibiotic	18	1
+RM2016_batch03_global10	ERR1725938	glycylcycline	2	0
+RM2016_batch03_global10	ERR1725938	lincosamide antibiotic	2	1
+RM2016_batch03_global10	ERR1725938	macrolide antibiotic	8	3
+RM2016_batch03_global10	ERR1725938	nucleoside antibiotic	1	0
+RM2016_batch03_global10	ERR1725938	penam	7	1
+RM2016_batch03_global10	ERR1725938	phenicol antibiotic	1	0
+RM2016_batch03_global10	ERR1725938	phosphonic acid antibiotic	2	0
+RM2016_batch03_global10	ERR1725938	rifamycin antibiotic	1	0
+RM2016_batch03_global10	ERR1725938	streptogramin A antibiotic	2	1
+RM2016_batch03_global10	ERR1725938	streptogramin B antibiotic	2	1
+RM2016_batch03_global10	ERR1725938	streptogramin antibiotic	4	2
+RM2016_batch03_global10	ERR1725938	sulfonamide antibiotic	1	1
+RM2016_batch03_global10	ERR1725938	tetracycline antibiotic	13	3
+RM2016_batch03_global10	ERR1725952	carbapenem	1	0
+RM2016_batch03_global10	ERR1725952	cephalosporin	1	0
+RM2016_batch03_global10	ERR1725952	glycopeptide antibiotic	2	0
+RM2016_batch03_global10	ERR1725952	macrolide antibiotic	2	0
+RM2016_batch03_global10	ERR1725952	penam	1	0
+RM2016_batch03_global10	ERR1725952	streptogramin antibiotic	1	0
+RM2016_batch03_global10	ERR1725952	tetracycline antibiotic	2	0
+RM2016_batch03_global10	ERR1725965	aminoglycoside antibiotic	6	2
+RM2016_batch03_global10	ERR1725965	carbapenem	4	1
+RM2016_batch03_global10	ERR1725965	cephalosporin	5	1
+RM2016_batch03_global10	ERR1725965	disinfecting agents and antiseptics	6	1
+RM2016_batch03_global10	ERR1725965	elfamycin antibiotic	1	0
+RM2016_batch03_global10	ERR1725965	fluoroquinolone antibiotic	2	0
+RM2016_batch03_global10	ERR1725965	glycopeptide antibiotic	8	0
+RM2016_batch03_global10	ERR1725965	glycylcycline	1	0
+RM2016_batch03_global10	ERR1725965	macrolide antibiotic	3	2
+RM2016_batch03_global10	ERR1725965	nucleoside antibiotic	1	0
+RM2016_batch03_global10	ERR1725965	penam	8	2
+RM2016_batch03_global10	ERR1725965	peptide antibiotic	1	0
+RM2016_batch03_global10	ERR1725965	phenicol antibiotic	4	1
+RM2016_batch03_global10	ERR1725965	phosphonic acid antibiotic	1	0
+RM2016_batch03_global10	ERR1725965	streptogramin antibiotic	1	1
+RM2016_batch03_global10	ERR1725965	sulfonamide antibiotic	1	1
+RM2016_batch03_global10	ERR1725965	tetracycline antibiotic	7	3
+RM2016_batch03_global10	ERR1725980	aminoglycoside antibiotic	5	2
+RM2016_batch03_global10	ERR1725980	carbapenem	5	1
+RM2016_batch03_global10	ERR1725980	cephalosporin	4	1
+RM2016_batch03_global10	ERR1725980	disinfecting agents and antiseptics	14	2
+RM2016_batch03_global10	ERR1725980	elfamycin antibiotic	1	0
+RM2016_batch03_global10	ERR1725980	fluoroquinolone antibiotic	1	0
+RM2016_batch03_global10	ERR1725980	glycopeptide antibiotic	11	0
+RM2016_batch03_global10	ERR1725980	lincosamide antibiotic	1	0
+RM2016_batch03_global10	ERR1725980	macrolide antibiotic	5	0
+RM2016_batch03_global10	ERR1725980	penam	5	2
+RM2016_batch03_global10	ERR1725980	streptogramin A antibiotic	1	0
+RM2016_batch03_global10	ERR1725980	streptogramin B antibiotic	1	0
+RM2016_batch03_global10	ERR1725980	streptogramin antibiotic	2	0
+RM2016_batch03_global10	ERR1725980	tetracycline antibiotic	4	0
+RM2016_batch03_global10	ERR1725981	aminoglycoside antibiotic	8	4
+RM2016_batch03_global10	ERR1725981	carbapenem	9	3
+RM2016_batch03_global10	ERR1725981	cephalosporin	11	3
+RM2016_batch03_global10	ERR1725981	cephamycin	2	0
+RM2016_batch03_global10	ERR1725981	diaminopyrimidine antibiotic	1	1
+RM2016_batch03_global10	ERR1725981	disinfecting agents and antiseptics	15	1
+RM2016_batch03_global10	ERR1725981	elfamycin antibiotic	1	0
+RM2016_batch03_global10	ERR1725981	fluoroquinolone antibiotic	5	0
+RM2016_batch03_global10	ERR1725981	glycopeptide antibiotic	23	0
+RM2016_batch03_global10	ERR1725981	glycylcycline	1	0
+RM2016_batch03_global10	ERR1725981	lincosamide antibiotic	7	2
+RM2016_batch03_global10	ERR1725981	macrolide antibiotic	12	7
+RM2016_batch03_global10	ERR1725981	monobactam	1	0
+RM2016_batch03_global10	ERR1725981	nitroimidazole antibiotic	1	0
+RM2016_batch03_global10	ERR1725981	penam	15	3
+RM2016_batch03_global10	ERR1725981	peptide antibiotic	1	0
+RM2016_batch03_global10	ERR1725981	phenicol antibiotic	1	0
+RM2016_batch03_global10	ERR1725981	phosphonic acid antibiotic	2	0
+RM2016_batch03_global10	ERR1725981	streptogramin A antibiotic	2	1
+RM2016_batch03_global10	ERR1725981	streptogramin B antibiotic	2	1
+RM2016_batch03_global10	ERR1725981	streptogramin antibiotic	3	2
+RM2016_batch03_global10	ERR1725981	sulfonamide antibiotic	2	1
+RM2016_batch03_global10	ERR1725981	tetracycline antibiotic	10	1

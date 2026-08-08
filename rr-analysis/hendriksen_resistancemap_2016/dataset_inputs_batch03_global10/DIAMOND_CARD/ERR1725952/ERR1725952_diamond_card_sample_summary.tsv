@@ -1,0 +1,9 @@
+metric	value
+sample_id	ERR1725952
+R1_hits	3142
+R2_hits	2971
+total_hits	6113
+unique_CARD_subjects	417
+mean_percent_identity	89.8218
+minimum_evalue	8.3e-36
+maximum_bitscore	118.0000

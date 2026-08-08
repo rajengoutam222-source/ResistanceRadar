@@ -1,0 +1,39 @@
+#!/bin/bash
+#BSUB -J "RM2016_B03_USA8_ARG_MOBILITY"
+#BSUB -q single_chassis
+#BSUB -n 2
+#BSUB -R "span[hosts=1]"
+#BSUB -R "rusage[mem=16]"
+#BSUB -M 16
+#BSUB -W 04:00
+#BSUB -o logs/RM2016_B03_USA8_ARG_MOBILITY_%J.out
+#BSUB -e logs/RM2016_B03_USA8_ARG_MOBILITY_%J.err
+
+set -euo pipefail
+
+cd /rsstu/users/s/sleblan/MismatchRepair/Project/pipeline/rr-pipeline
+
+source /usr/local/apps/miniconda20240526/etc/profile.d/conda.sh
+conda activate /rsstu/users/s/sleblan/MismatchRepair/Project/envs/rr_rgi
+
+echo "========================================"
+echo "ARG-MOBILITY OVERLAP"
+echo "Host: $(hostname)"
+echo "Start: $(date)"
+echo "========================================"
+
+python -c "import pandas as pd; print('pandas', pd.__version__)"
+
+echo
+echo "===== BATCH03 GLOBAL10 ====="
+python scripts/make_rm2016_batch03_global10_arg_mobility_overlap.py
+
+echo
+echo "===== USA CROSS-STUDY ADDITIONAL8 ====="
+python scripts/make_rm2016_USA_crossstudy_additional8_arg_mobility_overlap.py
+
+echo
+echo "========================================"
+echo "ALL ARG-MOBILITY ANALYSES COMPLETE"
+echo "End: $(date)"
+echo "========================================"
