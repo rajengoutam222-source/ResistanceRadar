@@ -1,0 +1,2 @@
+sample_id	source_contigs	source_bytes	contig_count	total_assembly_bp	minimum_contig_bp	maximum_contig_bp	mean_contig_bp	median_contig_bp	N50_bp	L50_contigs	N90_bp	L90_contigs	contigs_ge_1000_bp	contigs_ge_5000_bp	GC_percent_nonambiguous	ambiguous_bases
+ERR2592272	rr-analysis/hendriksen_resistancemap_2016/megahit_batch04A_newcountries12/ERR2592272/ERR2592272.contigs.fa	5567	1	5527	5527	5527	5527.00	5527	5527	1	5527	1	1	1	44.6173	0

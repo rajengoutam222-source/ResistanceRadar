@@ -1,0 +1,2 @@
+sample_id	source_contigs	source_bytes	contig_count	total_assembly_bp	minimum_contig_bp	maximum_contig_bp	mean_contig_bp	median_contig_bp	N50_bp	L50_contigs	N90_bp	L90_contigs	contigs_ge_1000_bp	contigs_ge_5000_bp	GC_percent_nonambiguous	ambiguous_bases
+ERR1713381	rr-analysis/hendriksen_resistancemap_2016/megahit_batch04A_newcountries12/ERR1713381/ERR1713381.contigs.fa	476524165	208615	467536044	1000	123178	2241.14	1480	2421	45089	1140	164715	208615	13295	44.4798	0
