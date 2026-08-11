@@ -1,0 +1,26 @@
+set	sample_id	Drug_Class	ARG_hits	mobile_context_ARG_hits
+RM2016_USA_crossstudy_additional8	ERR1713406	aminoglycoside antibiotic	14	6
+RM2016_USA_crossstudy_additional8	ERR1713406	carbapenem	13	2
+RM2016_USA_crossstudy_additional8	ERR1713406	cephalosporin	19	2
+RM2016_USA_crossstudy_additional8	ERR1713406	cephamycin	4	1
+RM2016_USA_crossstudy_additional8	ERR1713406	diaminopyrimidine antibiotic	5	0
+RM2016_USA_crossstudy_additional8	ERR1713406	disinfecting agents and antiseptics	40	2
+RM2016_USA_crossstudy_additional8	ERR1713406	elfamycin antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713406	fluoroquinolone antibiotic	47	2
+RM2016_USA_crossstudy_additional8	ERR1713406	glycopeptide antibiotic	106	2
+RM2016_USA_crossstudy_additional8	ERR1713406	glycylcycline	6	0
+RM2016_USA_crossstudy_additional8	ERR1713406	lincosamide antibiotic	8	2
+RM2016_USA_crossstudy_additional8	ERR1713406	macrolide antibiotic	14	4
+RM2016_USA_crossstudy_additional8	ERR1713406	monobactam	1	0
+RM2016_USA_crossstudy_additional8	ERR1713406	nitroimidazole antibiotic	3	0
+RM2016_USA_crossstudy_additional8	ERR1713406	nucleoside antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713406	penam	24	2
+RM2016_USA_crossstudy_additional8	ERR1713406	penem	2	0
+RM2016_USA_crossstudy_additional8	ERR1713406	phenicol antibiotic	14	3
+RM2016_USA_crossstudy_additional8	ERR1713406	phosphonic acid antibiotic	5	1
+RM2016_USA_crossstudy_additional8	ERR1713406	pleuromutilin antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713406	rifamycin antibiotic	9	0
+RM2016_USA_crossstudy_additional8	ERR1713406	streptogramin A antibiotic	2	0
+RM2016_USA_crossstudy_additional8	ERR1713406	streptogramin B antibiotic	2	0
+RM2016_USA_crossstudy_additional8	ERR1713406	streptogramin antibiotic	5	1
+RM2016_USA_crossstudy_additional8	ERR1713406	tetracycline antibiotic	55	3

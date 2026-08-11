@@ -1,0 +1,27 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+k141_4921	1907	No terminal repeats	3	11	0.9965	NA	2	3.8884	MOBP1	NA
+k141_10224	2456	No terminal repeats	2	11	0.9945	NA	2	2.9699	MOBP1	NA
+k141_20205	1244	No terminal repeats	2	11	0.9944	NA	2	2.3555	MOBQ	NA
+k141_14022	1012	No terminal repeats	3	11	0.9943	NA	2	3.2261	MOBQ	NA
+k141_549	1581	No terminal repeats	2	11	0.9927	NA	2	2.9571	MOBP1	NA
+k141_15519	1056	No terminal repeats	1	11	0.9904	NA	1	1.6808	MOBQ	NA
+k141_9673	1858	No terminal repeats	1	11	0.9893	NA	1	0.8585	MOBV	NA
+k141_20150	1214	No terminal repeats	3	11	0.9854	NA	1	1.9061	MOBV	NA
+k141_1104	10376	No terminal repeats	15	11	0.9831	NA	0	3.9399	NA	NA
+k141_18271	2040	No terminal repeats	3	11	0.9828	NA	1	0.6562	NA	NA
+k141_14677	3731	No terminal repeats	5	11	0.9817	NA	1	0.9230	NA	NA
+k141_17197	4309	No terminal repeats	4	11	0.9810	NA	0	1.1625	NA	NA
+k141_1532	1527	No terminal repeats	1	11	0.9788	NA	1	1.6808	MOBQ	NA
+k141_11716	1277	No terminal repeats	1	11	0.9775	NA	1	1.4636	F_traE	NA
+k141_17098	1026	No terminal repeats	1	11	0.9717	NA	1	0.5876	MOBV	NA
+k141_11703	1865	No terminal repeats	2	11	0.9706	NA	1	0.8688	NA	NA
+k141_3854	1351	No terminal repeats	3	11	0.9641	NA	1	1.7183	MOBT	NA
+k141_15773	2304	No terminal repeats	4	11	0.9601	NA	1	1.6480	NA	NA
+k141_3783	1045	No terminal repeats	3	11	0.9550	NA	1	1.1421	NA	NA
+k141_17026	2289	No terminal repeats	2	11	0.9412	NA	1	1.9430	F_traE	NA
+k141_8177	3112	No terminal repeats	6	11	0.9361	NA	0	2.4162	NA	NA
+k141_18985	2670	No terminal repeats	5	11	0.9019	NA	0	0.3141	NA	NA
+k141_12397	9249	No terminal repeats	9	11	0.8820	NA	0	0.6979	NA	NA
+k141_4975	1332	No terminal repeats	2	11	0.8783	NA	1	1.4636	F_traE	NA
+k141_1597	4295	No terminal repeats	6	11	0.8529	NA	0	0.4812	NA	NA
+k141_12979	1443	No terminal repeats	4	11	0.8105	NA	1	1.5384	B_traF	NA

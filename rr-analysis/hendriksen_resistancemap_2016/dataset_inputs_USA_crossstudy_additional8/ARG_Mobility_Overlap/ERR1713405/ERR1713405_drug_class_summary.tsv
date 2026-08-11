@@ -1,0 +1,28 @@
+set	sample_id	Drug_Class	ARG_hits	mobile_context_ARG_hits
+RM2016_USA_crossstudy_additional8	ERR1713405	aminocoumarin antibiotic	5	0
+RM2016_USA_crossstudy_additional8	ERR1713405	aminoglycoside antibiotic	21	1
+RM2016_USA_crossstudy_additional8	ERR1713405	carbapenem	18	4
+RM2016_USA_crossstudy_additional8	ERR1713405	cephalosporin	36	6
+RM2016_USA_crossstudy_additional8	ERR1713405	cephamycin	15	3
+RM2016_USA_crossstudy_additional8	ERR1713405	diaminopyrimidine antibiotic	6	0
+RM2016_USA_crossstudy_additional8	ERR1713405	disinfecting agents and antiseptics	71	12
+RM2016_USA_crossstudy_additional8	ERR1713405	elfamycin antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713405	fluoroquinolone antibiotic	45	5
+RM2016_USA_crossstudy_additional8	ERR1713405	glycopeptide antibiotic	163	0
+RM2016_USA_crossstudy_additional8	ERR1713405	glycylcycline	15	3
+RM2016_USA_crossstudy_additional8	ERR1713405	lincosamide antibiotic	10	4
+RM2016_USA_crossstudy_additional8	ERR1713405	macrolide antibiotic	29	8
+RM2016_USA_crossstudy_additional8	ERR1713405	monobactam	7	2
+RM2016_USA_crossstudy_additional8	ERR1713405	nitroimidazole antibiotic	5	0
+RM2016_USA_crossstudy_additional8	ERR1713405	nucleoside antibiotic	5	2
+RM2016_USA_crossstudy_additional8	ERR1713405	penam	38	6
+RM2016_USA_crossstudy_additional8	ERR1713405	penem	7	2
+RM2016_USA_crossstudy_additional8	ERR1713405	peptide antibiotic	6	2
+RM2016_USA_crossstudy_additional8	ERR1713405	phenicol antibiotic	20	3
+RM2016_USA_crossstudy_additional8	ERR1713405	phosphonic acid antibiotic	11	1
+RM2016_USA_crossstudy_additional8	ERR1713405	pleuromutilin antibiotic	1	1
+RM2016_USA_crossstudy_additional8	ERR1713405	rifamycin antibiotic	17	3
+RM2016_USA_crossstudy_additional8	ERR1713405	streptogramin A antibiotic	3	1
+RM2016_USA_crossstudy_additional8	ERR1713405	streptogramin B antibiotic	3	1
+RM2016_USA_crossstudy_additional8	ERR1713405	streptogramin antibiotic	6	4
+RM2016_USA_crossstudy_additional8	ERR1713405	tetracycline antibiotic	54	8

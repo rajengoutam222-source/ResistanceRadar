@@ -1,0 +1,24 @@
+set	sample_id	Drug_Class	ARG_hits	mobile_context_ARG_hits
+RM2016_USA_crossstudy_additional8	ERR1713398	aminoglycoside antibiotic	6	1
+RM2016_USA_crossstudy_additional8	ERR1713398	carbapenem	3	1
+RM2016_USA_crossstudy_additional8	ERR1713398	cephalosporin	3	1
+RM2016_USA_crossstudy_additional8	ERR1713398	diaminopyrimidine antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	disinfecting agents and antiseptics	22	7
+RM2016_USA_crossstudy_additional8	ERR1713398	elfamycin antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	fluoroquinolone antibiotic	5	0
+RM2016_USA_crossstudy_additional8	ERR1713398	glycopeptide antibiotic	82	2
+RM2016_USA_crossstudy_additional8	ERR1713398	glycylcycline	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	lincosamide antibiotic	3	0
+RM2016_USA_crossstudy_additional8	ERR1713398	macrolide antibiotic	8	2
+RM2016_USA_crossstudy_additional8	ERR1713398	nitroimidazole antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	oxazolidinone antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	penam	3	1
+RM2016_USA_crossstudy_additional8	ERR1713398	peptide antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	phenicol antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	phosphonic acid antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	rifamycin antibiotic	2	1
+RM2016_USA_crossstudy_additional8	ERR1713398	salicylic acid antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	streptogramin A antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	streptogramin B antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713398	streptogramin antibiotic	3	1
+RM2016_USA_crossstudy_additional8	ERR1713398	tetracycline antibiotic	15	1

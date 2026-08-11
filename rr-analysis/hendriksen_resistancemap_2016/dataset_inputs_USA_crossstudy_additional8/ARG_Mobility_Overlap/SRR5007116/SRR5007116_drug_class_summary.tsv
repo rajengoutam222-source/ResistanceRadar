@@ -1,0 +1,17 @@
+set	sample_id	Drug_Class	ARG_hits	mobile_context_ARG_hits
+RM2016_USA_crossstudy_additional8	SRR5007116	carbapenem	2	0
+RM2016_USA_crossstudy_additional8	SRR5007116	cephalosporin	2	0
+RM2016_USA_crossstudy_additional8	SRR5007116	diaminopyrimidine antibiotic	1	0
+RM2016_USA_crossstudy_additional8	SRR5007116	disinfecting agents and antiseptics	14	0
+RM2016_USA_crossstudy_additional8	SRR5007116	fluoroquinolone antibiotic	20	0
+RM2016_USA_crossstudy_additional8	SRR5007116	glycopeptide antibiotic	159	1
+RM2016_USA_crossstudy_additional8	SRR5007116	lincosamide antibiotic	3	0
+RM2016_USA_crossstudy_additional8	SRR5007116	macrolide antibiotic	5	0
+RM2016_USA_crossstudy_additional8	SRR5007116	nitroimidazole antibiotic	1	0
+RM2016_USA_crossstudy_additional8	SRR5007116	penam	2	0
+RM2016_USA_crossstudy_additional8	SRR5007116	phenicol antibiotic	1	0
+RM2016_USA_crossstudy_additional8	SRR5007116	phosphonic acid antibiotic	1	0
+RM2016_USA_crossstudy_additional8	SRR5007116	streptogramin A antibiotic	2	0
+RM2016_USA_crossstudy_additional8	SRR5007116	streptogramin B antibiotic	3	0
+RM2016_USA_crossstudy_additional8	SRR5007116	streptogramin antibiotic	4	0
+RM2016_USA_crossstudy_additional8	SRR5007116	tetracycline antibiotic	24	0

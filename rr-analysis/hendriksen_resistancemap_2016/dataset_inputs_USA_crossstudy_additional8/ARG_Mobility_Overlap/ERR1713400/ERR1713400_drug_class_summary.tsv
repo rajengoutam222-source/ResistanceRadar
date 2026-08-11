@@ -1,0 +1,29 @@
+set	sample_id	Drug_Class	ARG_hits	mobile_context_ARG_hits
+RM2016_USA_crossstudy_additional8	ERR1713400	aminocoumarin antibiotic	2	0
+RM2016_USA_crossstudy_additional8	ERR1713400	aminoglycoside antibiotic	8	0
+RM2016_USA_crossstudy_additional8	ERR1713400	carbapenem	7	1
+RM2016_USA_crossstudy_additional8	ERR1713400	cephalosporin	16	1
+RM2016_USA_crossstudy_additional8	ERR1713400	cephamycin	6	1
+RM2016_USA_crossstudy_additional8	ERR1713400	diaminopyrimidine antibiotic	3	0
+RM2016_USA_crossstudy_additional8	ERR1713400	disinfecting agents and antiseptics	32	5
+RM2016_USA_crossstudy_additional8	ERR1713400	elfamycin antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713400	fluoroquinolone antibiotic	24	3
+RM2016_USA_crossstudy_additional8	ERR1713400	glycopeptide antibiotic	92	2
+RM2016_USA_crossstudy_additional8	ERR1713400	glycylcycline	5	0
+RM2016_USA_crossstudy_additional8	ERR1713400	lincosamide antibiotic	12	2
+RM2016_USA_crossstudy_additional8	ERR1713400	macrolide antibiotic	17	6
+RM2016_USA_crossstudy_additional8	ERR1713400	monobactam	1	0
+RM2016_USA_crossstudy_additional8	ERR1713400	nitroimidazole antibiotic	3	1
+RM2016_USA_crossstudy_additional8	ERR1713400	nucleoside antibiotic	4	1
+RM2016_USA_crossstudy_additional8	ERR1713400	oxazolidinone antibiotic	1	1
+RM2016_USA_crossstudy_additional8	ERR1713400	penam	19	1
+RM2016_USA_crossstudy_additional8	ERR1713400	penem	2	0
+RM2016_USA_crossstudy_additional8	ERR1713400	peptide antibiotic	6	0
+RM2016_USA_crossstudy_additional8	ERR1713400	phenicol antibiotic	8	1
+RM2016_USA_crossstudy_additional8	ERR1713400	phosphonic acid antibiotic	4	0
+RM2016_USA_crossstudy_additional8	ERR1713400	pleuromutilin antibiotic	1	0
+RM2016_USA_crossstudy_additional8	ERR1713400	rifamycin antibiotic	5	0
+RM2016_USA_crossstudy_additional8	ERR1713400	streptogramin A antibiotic	2	0
+RM2016_USA_crossstudy_additional8	ERR1713400	streptogramin B antibiotic	2	0
+RM2016_USA_crossstudy_additional8	ERR1713400	streptogramin antibiotic	5	2
+RM2016_USA_crossstudy_additional8	ERR1713400	tetracycline antibiotic	25	4

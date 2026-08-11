@@ -1,0 +1,21 @@
+set	sample_id	Drug_Class	ARG_hits	mobile_context_ARG_hits
+RM2016_USA_crossstudy_additional8	SRR5007352	aminoglycoside antibiotic	4	0
+RM2016_USA_crossstudy_additional8	SRR5007352	carbapenem	2	0
+RM2016_USA_crossstudy_additional8	SRR5007352	cephalosporin	3	1
+RM2016_USA_crossstudy_additional8	SRR5007352	disinfecting agents and antiseptics	13	0
+RM2016_USA_crossstudy_additional8	SRR5007352	fluoroquinolone antibiotic	9	1
+RM2016_USA_crossstudy_additional8	SRR5007352	glycopeptide antibiotic	193	0
+RM2016_USA_crossstudy_additional8	SRR5007352	glycylcycline	1	0
+RM2016_USA_crossstudy_additional8	SRR5007352	lincosamide antibiotic	6	3
+RM2016_USA_crossstudy_additional8	SRR5007352	macrolide antibiotic	6	0
+RM2016_USA_crossstudy_additional8	SRR5007352	monobactam	1	1
+RM2016_USA_crossstudy_additional8	SRR5007352	nitroimidazole antibiotic	6	1
+RM2016_USA_crossstudy_additional8	SRR5007352	penam	3	1
+RM2016_USA_crossstudy_additional8	SRR5007352	penem	1	1
+RM2016_USA_crossstudy_additional8	SRR5007352	phosphonic acid antibiotic	1	0
+RM2016_USA_crossstudy_additional8	SRR5007352	pleuromutilin antibiotic	1	1
+RM2016_USA_crossstudy_additional8	SRR5007352	rifamycin antibiotic	2	0
+RM2016_USA_crossstudy_additional8	SRR5007352	streptogramin A antibiotic	1	0
+RM2016_USA_crossstudy_additional8	SRR5007352	streptogramin B antibiotic	2	0
+RM2016_USA_crossstudy_additional8	SRR5007352	streptogramin antibiotic	4	1
+RM2016_USA_crossstudy_additional8	SRR5007352	tetracycline antibiotic	17	3

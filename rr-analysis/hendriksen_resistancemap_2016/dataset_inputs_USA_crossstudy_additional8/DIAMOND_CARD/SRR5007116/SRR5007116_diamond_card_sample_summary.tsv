@@ -1,9 +1,0 @@
-metric	value
-sample_id	SRR5007116
-R1_hits	55222
-R2_hits	55145
-total_hits	110367
-unique_CARD_subjects	570
-mean_percent_identity	85.4444
-minimum_evalue	1.56e-36
-maximum_bitscore	119.0000

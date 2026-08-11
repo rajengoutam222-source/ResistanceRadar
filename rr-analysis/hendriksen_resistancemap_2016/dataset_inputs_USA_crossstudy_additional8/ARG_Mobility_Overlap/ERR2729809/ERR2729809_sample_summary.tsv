@@ -1,0 +1,2 @@
+set	sample_id	total_ARG_hits	matched_to_genomad	chromosome_like_ARG_hits	plasmid_like_ARG_hits	virus_like_ARG_hits	mobile_context_ARG_hits	unclassified_ARG_hits	percent_ARG_hits_plasmid_like	percent_ARG_hits_mobile_context	loose_ARG_hits	strict_ARG_hits	perfect_ARG_hits
+RM2016_USA_crossstudy_additional8	ERR2729809	141	19	122	19	0	19	0	13.47517730496454	13.47517730496454	0	121	20

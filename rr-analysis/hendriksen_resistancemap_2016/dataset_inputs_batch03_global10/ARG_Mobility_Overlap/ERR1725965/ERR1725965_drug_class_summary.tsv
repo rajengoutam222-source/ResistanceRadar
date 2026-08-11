@@ -1,0 +1,18 @@
+set	sample_id	Drug_Class	ARG_hits	mobile_context_ARG_hits
+RM2016_batch03_global10	ERR1725965	aminoglycoside antibiotic	6	2
+RM2016_batch03_global10	ERR1725965	carbapenem	4	1
+RM2016_batch03_global10	ERR1725965	cephalosporin	5	1
+RM2016_batch03_global10	ERR1725965	disinfecting agents and antiseptics	6	1
+RM2016_batch03_global10	ERR1725965	elfamycin antibiotic	1	0
+RM2016_batch03_global10	ERR1725965	fluoroquinolone antibiotic	2	0
+RM2016_batch03_global10	ERR1725965	glycopeptide antibiotic	8	0
+RM2016_batch03_global10	ERR1725965	glycylcycline	1	0
+RM2016_batch03_global10	ERR1725965	macrolide antibiotic	3	2
+RM2016_batch03_global10	ERR1725965	nucleoside antibiotic	1	0
+RM2016_batch03_global10	ERR1725965	penam	8	2
+RM2016_batch03_global10	ERR1725965	peptide antibiotic	1	0
+RM2016_batch03_global10	ERR1725965	phenicol antibiotic	4	1
+RM2016_batch03_global10	ERR1725965	phosphonic acid antibiotic	1	0
+RM2016_batch03_global10	ERR1725965	streptogramin antibiotic	1	1
+RM2016_batch03_global10	ERR1725965	sulfonamide antibiotic	1	1
+RM2016_batch03_global10	ERR1725965	tetracycline antibiotic	7	3
