@@ -26,11 +26,11 @@ Dashboard
 
 - Sunil – Scientific Lead
 - Namrata – Wet Lab & QC
-- Rajen – Bioinformatics
+- Rajen – Bioinformatics Pipeline Engineering
 - Prantosh – Workflow & Statistical Modeling
 - Kisan – Biological Interpretation
-- Suresh – AI/ML
-- Pratikshya – Dashboard & Analytics
+- Suresh, Chitra – AI/ML
+- Pratikshya, Alok – Dashboard & Analytics
 
 ## Current Status
 
