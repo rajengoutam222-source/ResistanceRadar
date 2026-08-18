@@ -1,0 +1,2 @@
+sample_id	source_contigs	source_bytes	contig_count	total_assembly_bp	minimum_contig_bp	maximum_contig_bp	mean_contig_bp	median_contig_bp	N50_bp	L50_contigs	N90_bp	L90_contigs	contigs_ge_1000_bp	contigs_ge_5000_bp	GC_percent_nonambiguous	ambiguous_bases
+2020_SRR33084338	rr-analysis/annual_wastewater_2017_2025/megahit/2020_SRR33084338/2020_SRR33084338.contigs.fa	248161563	89184	244332879	1000	399057	2739.65	1525	3499	13115	1192	66720	89184	8036	60.2198	0

@@ -1,0 +1,2 @@
+sample_id	source_contigs	source_bytes	contig_count	total_assembly_bp	minimum_contig_bp	maximum_contig_bp	mean_contig_bp	median_contig_bp	N50_bp	L50_contigs	N90_bp	L90_contigs	contigs_ge_1000_bp	contigs_ge_5000_bp	GC_percent_nonambiguous	ambiguous_bases
+2025_ERR17359858	rr-analysis/annual_wastewater_2017_2025/megahit/2025_ERR17359858/2025_ERR17359858.contigs.fa	8471820	4949	8265563	1000	11885	1670.15	1354	1630	1604	1077	4153	4949	71	41.8580	0
