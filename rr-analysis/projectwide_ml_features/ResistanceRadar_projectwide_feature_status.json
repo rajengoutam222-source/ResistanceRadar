@@ -1,0 +1,10 @@
+{
+  "created": "2026-08-23T09:47:50.179807",
+  "global_unique_samples": 101,
+  "strict_perfect_samples": 101,
+  "primary_samples": 84,
+  "selected_mode": "strict_perfect",
+  "successfully_processed_samples": 101,
+  "analysis_ready_all_samples": true,
+  "important_note": "No primary/strict_perfect mixing. Features are RGI-MAIN locus based; genome-equivalent normalization is not applied project-wide here."
+}

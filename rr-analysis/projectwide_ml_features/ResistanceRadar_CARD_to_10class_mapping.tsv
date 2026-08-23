@@ -1,0 +1,21 @@
+card_rgi_main_term	common_class
+aminoglycoside antibiotic	Aminoglycoside
+carbapenem	Beta-lactam
+cephalosporin	Beta-lactam
+cephamycin	Beta-lactam
+diaminopyrimidine antibiotic	Trimethoprim
+fluoroquinolone antibiotic	Quinolone
+glycylcycline	Tetracycline
+lincosamide antibiotic	MLS
+macrolide antibiotic	MLS
+monobactam	Beta-lactam
+penam	Beta-lactam
+penem	Beta-lactam
+phenicol antibiotic	Phenicol
+phosphonic acid antibiotic	Fosfomycin
+rifamycin antibiotic	Rifamycin
+streptogramin a antibiotic	MLS
+streptogramin antibiotic	MLS
+streptogramin b antibiotic	MLS
+sulfonamide antibiotic	Sulfonamide
+tetracycline antibiotic	Tetracycline

@@ -1,0 +1,29 @@
+#!/bin/bash
+#BSUB -J RR_PROJECTWIDE_LOW_COST_ML
+#BSUB -q single_chassis
+#BSUB -n 2
+#BSUB -R "span[hosts=1]"
+#BSUB -R "rusage[mem=16GB]"
+#BSUB -W 04:00
+#BSUB -o "rr-analysis/projectwide_ml_features/logs/RR_PROJECTWIDE_LOW_COST_ML_%J.out"
+#BSUB -e "rr-analysis/projectwide_ml_features/logs/RR_PROJECTWIDE_LOW_COST_ML_%J.err"
+
+set -euo pipefail
+
+ROOT="/rsstu/users/s/sleblan/MismatchRepair/Project/pipeline/rr-pipeline"
+PY="/rsstu/users/s/sleblan/MismatchRepair/Rajen/envs/rr_concordance/bin/python"
+
+cd "$ROOT"
+mkdir -p rr-analysis/projectwide_ml_features/logs
+
+echo "=============================================="
+echo "ResistanceRadar project-wide low-cost ML"
+echo "Host: $(hostname)"
+echo "Start: $(date)"
+echo "=============================================="
+
+"$PY" rr-analysis/projectwide_ml_features/scripts/build_projectwide_lowcost_features.py
+
+echo "=============================================="
+echo "Finished: $(date)"
+echo "=============================================="
