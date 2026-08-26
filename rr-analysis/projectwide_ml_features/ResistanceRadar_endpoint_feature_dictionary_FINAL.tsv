@@ -1,0 +1,15 @@
+feature	endpoint	mechanism	definition	data_type
+qnr__present	Fluoroquinolone	PMQR	Qnr family detected by CARD/RGI	binary
+oqxA__present	Fluoroquinolone	PMQR_efflux	oqxA detected by CARD/RGI	binary
+oqxB__present	Fluoroquinolone	PMQR_efflux	oqxB detected by CARD/RGI	binary
+qepA__present	Fluoroquinolone	PMQR_efflux	qepA detected by CARD/RGI	binary
+aac6_Ib_cr__present	Fluoroquinolone	PMQR_drug_modification	AAC(6')-Ib-cr family detected by CARD/RGI	binary
+Ecoli_gyrA_QRDR_present	Fluoroquinolone	QRDR_target_mutation	Strict/Perfect CARD protein-variant call in E. coli gyrA	binary
+Ecoli_parC_QRDR_present	Fluoroquinolone	QRDR_target_mutation	Strict/Perfect CARD protein-variant call in E. coli parC	binary
+Ecoli_gyrA_QRDR_mutations	Fluoroquinolone	QRDR_target_mutation	Exact CARD-reported gyrA amino-acid substitution(s)	categorical_string
+Ecoli_parC_QRDR_mutations	Fluoroquinolone	QRDR_target_mutation	Exact CARD-reported parC amino-acid substitution(s)	categorical_string
+KPC__present	Carbapenem	carbapenemase	KPC family detected	binary
+NDM__present	Carbapenem	carbapenemase	NDM family detected	binary
+VIM__present	Carbapenem	carbapenemase	VIM family detected	binary
+IMP__present	Carbapenem	carbapenemase	IMP family detected	binary
+OXA48_like__present	Carbapenem	carbapenemase	OXA-48-like family detected	binary

@@ -1,0 +1,13 @@
+endpoint	feature	definition	status
+Fluoroquinolone	qnr	Qnr family	existing_CARD_RGI
+Fluoroquinolone	oqxA	oqxA	existing_CARD_RGI
+Fluoroquinolone	oqxB	oqxB	existing_CARD_RGI
+Fluoroquinolone	qepA	qepA	existing_CARD_RGI
+Fluoroquinolone	aac6_Ib_cr	AAC(6')-Ib-cr family	existing_CARD_RGI
+Fluoroquinolone	Ecoli_gyrA_QRDR	E. coli gyrA resistance-associated QRDR mutation	CARD_RGI_MAIN_StrictPerfect_protein_variant
+Fluoroquinolone	Ecoli_parC_QRDR	E. coli parC resistance-associated QRDR mutation	CARD_RGI_MAIN_StrictPerfect_protein_variant
+Carbapenem	KPC	KPC carbapenemase family	existing_CARD_RGI
+Carbapenem	NDM	NDM carbapenemase family	existing_CARD_RGI
+Carbapenem	VIM	VIM carbapenemase family	existing_CARD_RGI
+Carbapenem	IMP	IMP carbapenemase family	existing_CARD_RGI
+Carbapenem	OXA48_like	OXA-48-like carbapenemase family	existing_CARD_RGI

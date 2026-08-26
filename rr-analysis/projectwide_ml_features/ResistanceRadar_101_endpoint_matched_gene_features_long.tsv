@@ -1,0 +1,1011 @@
+sample	endpoint	panel_feature	ARG_loci	mobile_ARG_loci	plasmid_ARG_loci	detected_alleles	present	mobile_fraction	plasmid_fraction
+2017_SRR13208898	Fluoroquinolone	qnr	3.0	1.0	1.0	QnrB10;QnrS2;QnrVC4	1.0	0.3333333333333333	0.3333333333333333
+2017_SRR13208898	Fluoroquinolone	oqxA	1.0	1.0	1.0	oqxA	1.0	1.0	1.0
+2017_SRR13208898	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+2017_SRR13208898	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+2017_SRR13208898	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+2017_SRR13208898	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+2017_SRR13208898	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+2017_SRR13208898	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+2017_SRR13208898	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+2017_SRR13208898	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+2018_SRR13208892	Fluoroquinolone	qnr	3.0	2.0	2.0	QnrB10;QnrD1;QnrS2	1.0	0.6666666666666666	0.6666666666666666
+2018_SRR13208892	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+2018_SRR13208892	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+2018_SRR13208892	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+2018_SRR13208892	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+2018_SRR13208892	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+2018_SRR13208892	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+2018_SRR13208892	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+2018_SRR13208892	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+2018_SRR13208892	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+2019_SRR28226461	Fluoroquinolone	qnr	4.0	1.0	1.0	QnrB19;QnrD1;QnrS2;QnrVC4	1.0	0.25	0.25
+2019_SRR28226461	Fluoroquinolone	oqxA	1.0	0.0	0.0	oqxA	1.0	0.0	0.0
+2019_SRR28226461	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+2019_SRR28226461	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+2019_SRR28226461	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+2019_SRR28226461	Carbapenem	KPC	1.0	0.0	0.0	KPC-2	1.0	0.0	0.0
+2019_SRR28226461	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+2019_SRR28226461	Carbapenem	VIM	1.0	0.0	0.0	VIM-2	1.0	0.0	0.0
+2019_SRR28226461	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+2019_SRR28226461	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+2020_SRR33084338	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+2020_SRR33084338	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+2020_SRR33084338	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+2020_SRR33084338	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+2020_SRR33084338	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+2020_SRR33084338	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+2020_SRR33084338	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+2020_SRR33084338	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+2020_SRR33084338	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+2020_SRR33084338	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+2021_SRR28226424	Fluoroquinolone	qnr	3.0	1.0	1.0	QnrB10;QnrS2;QnrVC4	1.0	0.3333333333333333	0.3333333333333333
+2021_SRR28226424	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+2021_SRR28226424	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+2021_SRR28226424	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+2021_SRR28226424	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+2021_SRR28226424	Carbapenem	KPC	1.0	0.0	0.0	KPC-2	1.0	0.0	0.0
+2021_SRR28226424	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+2021_SRR28226424	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+2021_SRR28226424	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+2021_SRR28226424	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+2022_SRR28226418	Fluoroquinolone	qnr	3.0	2.0	2.0	QnrB10;QnrS2;QnrVC4	1.0	0.6666666666666666	0.6666666666666666
+2022_SRR28226418	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+2022_SRR28226418	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+2022_SRR28226418	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+2022_SRR28226418	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+2022_SRR28226418	Carbapenem	KPC	1.0	0.0	0.0	KPC-2	1.0	0.0	0.0
+2022_SRR28226418	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+2022_SRR28226418	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+2022_SRR28226418	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+2022_SRR28226418	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+2023_SRR37365438	Fluoroquinolone	qnr	4.0	1.0	0.0	QnrB10;QnrS2;QnrVC1;QnrVC4	1.0	0.25	0.0
+2023_SRR37365438	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+2023_SRR37365438	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+2023_SRR37365438	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+2023_SRR37365438	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+2023_SRR37365438	Carbapenem	KPC	1.0	0.0	0.0	KPC-2	1.0	0.0	0.0
+2023_SRR37365438	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+2023_SRR37365438	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+2023_SRR37365438	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+2023_SRR37365438	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+2024_ERR17001293	Fluoroquinolone	qnr	1.0	0.0	0.0	QnrS2	1.0	0.0	0.0
+2024_ERR17001293	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+2024_ERR17001293	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+2024_ERR17001293	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+2024_ERR17001293	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+2024_ERR17001293	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+2024_ERR17001293	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+2024_ERR17001293	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+2024_ERR17001293	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+2024_ERR17001293	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+2025_ERR17359858	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+2025_ERR17359858	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+2025_ERR17359858	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+2025_ERR17359858	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+2025_ERR17359858	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+2025_ERR17359858	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+2025_ERR17359858	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+2025_ERR17359858	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+2025_ERR17359858	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+2025_ERR17359858	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713331	Fluoroquinolone	qnr	1.0	1.0	0.0	QnrVC4	1.0	1.0	0.0
+ERR1713331	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713331	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713331	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713331	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713331	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713331	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713331	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713331	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713331	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713332	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713332	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713332	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713332	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713332	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713332	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713332	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713332	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713332	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713332	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713334	Fluoroquinolone	qnr	1.0	1.0	1.0	QnrS2	1.0	1.0	1.0
+ERR1713334	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713334	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713334	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713334	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713334	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713334	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713334	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713334	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713334	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713335	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713335	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713335	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713335	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713335	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713335	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713335	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713335	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713335	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713335	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713337	Fluoroquinolone	qnr	2.0	2.0	2.0	QnrB10;QnrS2	1.0	1.0	1.0
+ERR1713337	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713337	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713337	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713337	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713337	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713337	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713337	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713337	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713337	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713339	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713339	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713339	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713339	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713339	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713339	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713339	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713339	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713339	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713339	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713343	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713343	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713343	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713343	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713343	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713343	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713343	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713343	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713343	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713343	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713344	Fluoroquinolone	qnr	3.0	3.0	3.0	QnrS2;QnrVC1;QnrVC4	1.0	1.0	1.0
+ERR1713344	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713344	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713344	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713344	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713344	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713344	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713344	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713344	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713344	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713346	Fluoroquinolone	qnr	1.0	0.0	0.0	QnrB10	1.0	0.0	0.0
+ERR1713346	Fluoroquinolone	oqxA	1.0	0.0	0.0	oqxA	1.0	0.0	0.0
+ERR1713346	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713346	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713346	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713346	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713346	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713346	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713346	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713346	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713348	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713348	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713348	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713348	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713348	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713348	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713348	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713348	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713348	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713348	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713349	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713349	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713349	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713349	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713349	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713349	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713349	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713349	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713349	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713349	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713350	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713350	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713350	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713350	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713350	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713350	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713350	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713350	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713350	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713350	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713352	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713352	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713352	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713352	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713352	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713352	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713352	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713352	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713352	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713352	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713354	Fluoroquinolone	qnr	1.0	1.0	1.0	QnrS2	1.0	1.0	1.0
+ERR1713354	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713354	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713354	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713354	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713354	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713354	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713354	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713354	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713354	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713355	Fluoroquinolone	qnr	2.0	2.0	2.0	QnrS1;QnrS2	1.0	1.0	1.0
+ERR1713355	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713355	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713355	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713355	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713355	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713355	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713355	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713355	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713355	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713358	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713358	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713358	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713358	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713358	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713358	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713358	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713358	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713358	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713358	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713359	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713359	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713359	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713359	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713359	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713359	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713359	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713359	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713359	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713359	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713361	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713361	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713361	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713361	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713361	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713361	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713361	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713361	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713361	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713361	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713362	Fluoroquinolone	qnr	5.0	5.0	5.0	QnrB38;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	1.0	1.0
+ERR1713362	Fluoroquinolone	oqxA	3.0	3.0	3.0	oqxA	1.0	1.0	1.0
+ERR1713362	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713362	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713362	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713362	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713362	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713362	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713362	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713362	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713365	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713365	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713365	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713365	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713365	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713365	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713365	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713365	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713365	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713365	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713366	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713366	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713366	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713366	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713366	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713366	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713366	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713366	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713366	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713366	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713367	Fluoroquinolone	qnr	2.0	1.0	1.0	QnrS2;QnrVC4	1.0	0.5	0.5
+ERR1713367	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713367	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713367	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713367	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713367	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713367	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713367	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713367	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713367	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713368	Fluoroquinolone	qnr	3.0	0.0	0.0	QnrD1;QnrS2;QnrVC4	1.0	0.0	0.0
+ERR1713368	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713368	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713368	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713368	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713368	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713368	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713368	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713368	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713368	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713369	Fluoroquinolone	qnr	2.0	2.0	2.0	QnrS2;QnrVC4	1.0	1.0	1.0
+ERR1713369	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713369	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713369	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713369	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713369	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713369	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713369	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713369	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713369	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713370	Fluoroquinolone	qnr	2.0	0.0	0.0	QnrS1;QnrVC4	1.0	0.0	0.0
+ERR1713370	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713370	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713370	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713370	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713370	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713370	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713370	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713370	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713370	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713371	Fluoroquinolone	qnr	1.0	1.0	1.0	QnrS2	1.0	1.0	1.0
+ERR1713371	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713371	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713371	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713371	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713371	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713371	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713371	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713371	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713371	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713372	Fluoroquinolone	qnr	1.0	1.0	1.0	QnrS2	1.0	1.0	1.0
+ERR1713372	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713372	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713372	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713372	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713372	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713372	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713372	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713372	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713372	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713379	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713379	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713379	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713379	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713379	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713379	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713379	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713379	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713379	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713379	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713381	Fluoroquinolone	qnr	1.0	0.0	0.0	QnrS2	1.0	0.0	0.0
+ERR1713381	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713381	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713381	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713381	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713381	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713381	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713381	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713381	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713381	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713382	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713382	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713382	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713382	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713382	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713382	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713382	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713382	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713382	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713382	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713384	Fluoroquinolone	qnr	5.0	2.0	2.0	QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.4	0.4
+ERR1713384	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713384	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713384	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713384	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713384	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713384	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713384	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713384	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713384	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713385	Fluoroquinolone	qnr	3.0	0.0	0.0	QnrB10;QnrS2;QnrVC1	1.0	0.0	0.0
+ERR1713385	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713385	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713385	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713385	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713385	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713385	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713385	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713385	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713385	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713386	Fluoroquinolone	qnr	3.0	1.0	1.0	QnrB10;QnrS1;QnrS2	1.0	0.3333333333333333	0.3333333333333333
+ERR1713386	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713386	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713386	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713386	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713386	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713386	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713386	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713386	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713386	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713394	Fluoroquinolone	qnr	1.0	0.0	0.0	QnrVC1	1.0	0.0	0.0
+ERR1713394	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713394	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713394	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713394	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713394	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713394	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713394	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713394	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713394	Carbapenem	OXA48_like	1.0	0.0	0.0	OXA-436	1.0	0.0	0.0
+ERR1713397	Fluoroquinolone	qnr	1.0	0.0	0.0	QnrS2	1.0	0.0	0.0
+ERR1713397	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713397	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713397	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713397	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713397	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713397	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713397	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713397	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713397	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713398	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713398	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713398	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713398	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713398	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713398	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713398	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713398	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713398	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713398	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713399	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713399	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713399	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713399	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713399	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713399	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713399	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713399	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713399	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713399	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713400	Fluoroquinolone	qnr	2.0	1.0	1.0	QnrB10;QnrS2	1.0	0.5	0.5
+ERR1713400	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713400	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713400	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713400	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713400	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713400	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713400	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713400	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713400	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713403	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713403	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713403	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713403	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713403	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713403	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713403	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713403	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713403	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713403	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713405	Fluoroquinolone	qnr	2.0	0.0	0.0	QnrS2;QnrVC4	1.0	0.0	0.0
+ERR1713405	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713405	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713405	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713405	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713405	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713405	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713405	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713405	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713405	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713406	Fluoroquinolone	qnr	1.0	0.0	0.0	QnrS2	1.0	0.0	0.0
+ERR1713406	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713406	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713406	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713406	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713406	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713406	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713406	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713406	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713406	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713407	Fluoroquinolone	qnr	6.0	1.0	1.0	QnrB4;QnrB76;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.16666666666666666	0.16666666666666666
+ERR1713407	Fluoroquinolone	oqxA	3.0	0.0	0.0	oqxA	1.0	0.0	0.0
+ERR1713407	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713407	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713407	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713407	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713407	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713407	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713407	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713407	Carbapenem	OXA48_like	2.0	0.0	0.0	OXA-436;OXA-48	1.0	0.0	0.0
+ERR1713408	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713408	Fluoroquinolone	oqxA	1.0	0.0	0.0	oqxA	1.0	0.0	0.0
+ERR1713408	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713408	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713408	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713408	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713408	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713408	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713408	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713408	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713409	Fluoroquinolone	qnr	1.0	0.0	0.0	QnrVC4	1.0	0.0	0.0
+ERR1713409	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713409	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713409	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713409	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713409	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713409	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713409	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713409	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713409	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713410	Fluoroquinolone	qnr	3.0	2.0	2.0	QnrS2;QnrVC1;QnrVC4	1.0	0.6666666666666666	0.6666666666666666
+ERR1713410	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713410	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713410	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713410	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713410	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713410	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713410	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713410	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1713410	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725938	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725938	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725938	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725938	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725938	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725938	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725938	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725938	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725938	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725938	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725947	Fluoroquinolone	qnr	1.0	1.0	1.0	QnrVC4	1.0	1.0	1.0
+ERR1725947	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725947	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725947	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725947	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725947	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725947	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725947	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725947	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725947	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725952	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725952	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725952	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725952	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725952	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725952	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725952	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725952	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725952	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725952	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725962	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725962	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725962	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725962	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725962	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725962	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725962	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725962	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725962	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725962	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725965	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725965	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725965	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725965	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725965	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725965	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725965	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725965	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725965	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725965	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725966	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725966	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725966	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725966	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725966	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725966	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725966	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725966	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725966	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725966	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725973	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725973	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725973	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725973	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725973	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725973	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725973	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725973	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725973	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725973	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725975	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725975	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725975	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725975	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725975	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725975	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725975	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725975	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725975	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725975	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725976	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725976	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725976	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725976	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725976	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725976	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725976	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725976	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725976	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725976	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725980	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725980	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725980	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725980	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725980	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725980	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725980	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725980	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725980	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725980	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725981	Fluoroquinolone	qnr	1.0	0.0	0.0	QnrS2	1.0	0.0	0.0
+ERR1725981	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725981	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725981	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725981	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725981	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725981	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725981	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725981	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725981	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725987	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725987	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725987	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725987	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725987	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725987	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725987	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725987	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725987	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725987	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725989	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725989	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725989	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725989	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725989	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725989	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725989	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725989	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725989	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725989	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725991	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725991	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725991	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725991	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725991	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725991	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725991	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725991	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725991	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725991	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725993	Fluoroquinolone	qnr	1.0	0.0	0.0	QnrS2	1.0	0.0	0.0
+ERR1725993	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725993	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725993	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725993	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725993	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725993	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725993	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725993	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725993	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725995	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725995	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725995	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725995	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725995	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725995	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725995	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725995	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725995	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725995	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725996	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725996	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725996	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725996	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725996	Fluoroquinolone	aac6_Ib_cr	1.0	0.0	0.0	AAC(6')-Ib-cr4	1.0	0.0	0.0
+ERR1725996	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725996	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725996	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725996	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725996	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725999	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725999	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725999	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725999	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725999	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725999	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725999	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725999	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725999	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1725999	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726000	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726000	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726000	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726000	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726000	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726000	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726000	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726000	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726000	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726000	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726001	Fluoroquinolone	qnr	2.0	1.0	1.0	QnrD1;QnrS2	1.0	0.5	0.5
+ERR1726001	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726001	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726001	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726001	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726001	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726001	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726001	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726001	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726001	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726002	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726002	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726002	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726002	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726002	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726002	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726002	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726002	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726002	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726002	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726003	Fluoroquinolone	qnr	1.0	0.0	0.0	QnrS2	1.0	0.0	0.0
+ERR1726003	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726003	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726003	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726003	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726003	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726003	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726003	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726003	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726003	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726004	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726004	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726004	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726004	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726004	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726004	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726004	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726004	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726004	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726004	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726006	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726006	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726006	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726006	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726006	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726006	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726006	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726006	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726006	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726006	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726009	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726009	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726009	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726009	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726009	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726009	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726009	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726009	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726009	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR1726009	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR2729809	Fluoroquinolone	qnr	4.0	1.0	1.0	QnrB10;QnrS2;QnrVC1;QnrVC4	1.0	0.25	0.25
+ERR2729809	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR2729809	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR2729809	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR2729809	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR2729809	Carbapenem	KPC	1.0	0.0	0.0	KPC-83	1.0	0.0	0.0
+ERR2729809	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR2729809	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR2729809	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR2729809	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+ERR9855090	Fluoroquinolone	qnr	1.0	1.0	1.0	QnrS2	1.0	1.0	1.0
+ERR9855090	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR9855090	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+ERR9855090	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+ERR9855090	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+ERR9855090	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+ERR9855090	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR9855090	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+ERR9855090	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+ERR9855090	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+E_1-2	Fluoroquinolone	qnr	4.0	1.0	1.0	QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.25	0.25
+E_1-2	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+E_1-2	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+E_1-2	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+E_1-2	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+E_1-2	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+E_1-2	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+E_1-2	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+E_1-2	Carbapenem	IMP	2.0	1.0	1.0	IMP-15;IMP-34	1.0	0.5	0.5
+E_1-2	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+E_11-12	Fluoroquinolone	qnr	6.0	1.0	1.0	QnrB62;QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.16666666666666666	0.16666666666666666
+E_11-12	Fluoroquinolone	oqxA	1.0	0.0	0.0	oqxA	1.0	0.0	0.0
+E_11-12	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+E_11-12	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+E_11-12	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+E_11-12	Carbapenem	KPC	1.0	0.0	0.0	KPC-2	1.0	0.0	0.0
+E_11-12	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+E_11-12	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+E_11-12	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+E_11-12	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+E_3-4	Fluoroquinolone	qnr	4.0	1.0	1.0	QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.25	0.25
+E_3-4	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+E_3-4	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+E_3-4	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+E_3-4	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+E_3-4	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+E_3-4	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+E_3-4	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+E_3-4	Carbapenem	IMP	1.0	1.0	1.0	IMP-34	1.0	1.0	1.0
+E_3-4	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+E_5-6	Fluoroquinolone	qnr	6.0	2.0	2.0	QnrB6;QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.3333333333333333	0.3333333333333333
+E_5-6	Fluoroquinolone	oqxA	1.0	0.0	0.0	oqxA	1.0	0.0	0.0
+E_5-6	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+E_5-6	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+E_5-6	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+E_5-6	Carbapenem	KPC	1.0	1.0	1.0	KPC-2	1.0	1.0	1.0
+E_5-6	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+E_5-6	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+E_5-6	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+E_5-6	Carbapenem	OXA48_like	1.0	0.0	0.0	OXA-181	1.0	0.0	0.0
+E_7-8	Fluoroquinolone	qnr	4.0	3.0	3.0	QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.75	0.75
+E_7-8	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+E_7-8	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+E_7-8	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+E_7-8	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+E_7-8	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+E_7-8	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+E_7-8	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+E_7-8	Carbapenem	IMP	1.0	0.0	0.0	IMP-1	1.0	0.0	0.0
+E_7-8	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+E_9-10	Fluoroquinolone	qnr	3.0	0.0	0.0	QnrS2;QnrVC1;QnrVC4	1.0	0.0	0.0
+E_9-10	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+E_9-10	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+E_9-10	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+E_9-10	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+E_9-10	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+E_9-10	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+E_9-10	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+E_9-10	Carbapenem	IMP	1.0	0.0	0.0	IMP-1	1.0	0.0	0.0
+E_9-10	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+I_1-2	Fluoroquinolone	qnr	6.0	2.0	2.0	QnrB10;QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.3333333333333333	0.3333333333333333
+I_1-2	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+I_1-2	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+I_1-2	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+I_1-2	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+I_1-2	Carbapenem	KPC	1.0	1.0	1.0	KPC-2	1.0	1.0	1.0
+I_1-2	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+I_1-2	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+I_1-2	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+I_1-2	Carbapenem	OXA48_like	1.0	0.0	0.0	OXA-181	1.0	0.0	0.0
+I_11-12	Fluoroquinolone	qnr	6.0	0.0	0.0	QnrB10;QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.0	0.0
+I_11-12	Fluoroquinolone	oqxA	1.0	0.0	0.0	oqxA	1.0	0.0	0.0
+I_11-12	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+I_11-12	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+I_11-12	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+I_11-12	Carbapenem	KPC	1.0	1.0	1.0	KPC-2	1.0	1.0	1.0
+I_11-12	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+I_11-12	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+I_11-12	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+I_11-12	Carbapenem	OXA48_like	1.0	0.0	0.0	OXA-232	1.0	0.0	0.0
+I_3-4	Fluoroquinolone	qnr	5.0	2.0	2.0	QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.4	0.4
+I_3-4	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+I_3-4	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+I_3-4	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+I_3-4	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+I_3-4	Carbapenem	KPC	1.0	0.0	0.0	KPC-2	1.0	0.0	0.0
+I_3-4	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+I_3-4	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+I_3-4	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+I_3-4	Carbapenem	OXA48_like	1.0	1.0	1.0	OXA-181	1.0	1.0	1.0
+I_5-6	Fluoroquinolone	qnr	4.0	2.0	2.0	QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.5	0.5
+I_5-6	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+I_5-6	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+I_5-6	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+I_5-6	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+I_5-6	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+I_5-6	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+I_5-6	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+I_5-6	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+I_5-6	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+I_7-8	Fluoroquinolone	qnr	6.0	1.0	1.0	QnrB10;QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.16666666666666666	0.16666666666666666
+I_7-8	Fluoroquinolone	oqxA	1.0	0.0	0.0	oqxA	1.0	0.0	0.0
+I_7-8	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+I_7-8	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+I_7-8	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+I_7-8	Carbapenem	KPC	1.0	1.0	1.0	KPC-2	1.0	1.0	1.0
+I_7-8	Carbapenem	NDM	1.0	1.0	1.0	NDM-5	1.0	1.0	1.0
+I_7-8	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+I_7-8	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+I_7-8	Carbapenem	OXA48_like	1.0	0.0	0.0	OXA-181	1.0	0.0	0.0
+I_9-10	Fluoroquinolone	qnr	6.0	2.0	2.0	QnrB6;QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.3333333333333333	0.3333333333333333
+I_9-10	Fluoroquinolone	oqxA	2.0	0.0	0.0	oqxA	1.0	0.0	0.0
+I_9-10	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+I_9-10	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+I_9-10	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+I_9-10	Carbapenem	KPC	1.0	1.0	1.0	KPC-2	1.0	1.0	1.0
+I_9-10	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+I_9-10	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+I_9-10	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+I_9-10	Carbapenem	OXA48_like	1.0	0.0	0.0	OXA-181	1.0	0.0	0.0
+RW_1	Fluoroquinolone	qnr	5.0	2.0	2.0	QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.4	0.4
+RW_1	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+RW_1	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+RW_1	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+RW_1	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+RW_1	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+RW_1	Carbapenem	NDM	1.0	0.0	0.0	NDM-4	1.0	0.0	0.0
+RW_1	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+RW_1	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+RW_1	Carbapenem	OXA48_like	1.0	0.0	0.0	OXA-48	1.0	0.0	0.0
+RW_2	Fluoroquinolone	qnr	6.0	1.0	1.0	QnrB6;QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.16666666666666666	0.16666666666666666
+RW_2	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+RW_2	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+RW_2	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+RW_2	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+RW_2	Carbapenem	KPC	1.0	0.0	0.0	KPC-2	1.0	0.0	0.0
+RW_2	Carbapenem	NDM	1.0	1.0	1.0	NDM-1	1.0	1.0	1.0
+RW_2	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+RW_2	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+RW_2	Carbapenem	OXA48_like	1.0	0.0	0.0	OXA-181	1.0	0.0	0.0
+RW_3	Fluoroquinolone	qnr	5.0	1.0	1.0	QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.2	0.2
+RW_3	Fluoroquinolone	oqxA	2.0	0.0	0.0	oqxA	1.0	0.0	0.0
+RW_3	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+RW_3	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+RW_3	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+RW_3	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+RW_3	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+RW_3	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+RW_3	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+RW_3	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+RW_4	Fluoroquinolone	qnr	6.0	2.0	2.0	QnrB6;QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.3333333333333333	0.3333333333333333
+RW_4	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+RW_4	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+RW_4	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+RW_4	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+RW_4	Carbapenem	KPC	1.0	1.0	1.0	KPC-2	1.0	1.0	1.0
+RW_4	Carbapenem	NDM	1.0	0.0	0.0	NDM-1	1.0	0.0	0.0
+RW_4	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+RW_4	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+RW_4	Carbapenem	OXA48_like	1.0	0.0	0.0	OXA-181	1.0	0.0	0.0
+RW_5	Fluoroquinolone	qnr	6.0	3.0	3.0	QnrB10;QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.5	0.5
+RW_5	Fluoroquinolone	oqxA	1.0	0.0	0.0	oqxA	1.0	0.0	0.0
+RW_5	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+RW_5	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+RW_5	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+RW_5	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+RW_5	Carbapenem	NDM	1.0	0.0	0.0	NDM-1	1.0	0.0	0.0
+RW_5	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+RW_5	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+RW_5	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+RW_6	Fluoroquinolone	qnr	5.0	1.0	1.0	QnrD1;QnrS1;QnrS2;QnrVC1;QnrVC4	1.0	0.2	0.2
+RW_6	Fluoroquinolone	oqxA	1.0	0.0	0.0	oqxA	1.0	0.0	0.0
+RW_6	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+RW_6	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+RW_6	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+RW_6	Carbapenem	KPC	1.0	1.0	1.0	KPC-2	1.0	1.0	1.0
+RW_6	Carbapenem	NDM	1.0	0.0	0.0	NDM-1	1.0	0.0	0.0
+RW_6	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+RW_6	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+RW_6	Carbapenem	OXA48_like	1.0	0.0	0.0	OXA-181	1.0	0.0	0.0
+SRR5007116	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007116	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007116	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007116	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007116	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007116	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007116	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007116	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007116	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007116	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007352	Fluoroquinolone	qnr	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007352	Fluoroquinolone	oqxA	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007352	Fluoroquinolone	oqxB	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007352	Fluoroquinolone	qepA	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007352	Fluoroquinolone	aac6_Ib_cr	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007352	Carbapenem	KPC	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007352	Carbapenem	NDM	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007352	Carbapenem	VIM	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007352	Carbapenem	IMP	0.0	0.0	0.0		0.0	0.0	0.0
+SRR5007352	Carbapenem	OXA48_like	0.0	0.0	0.0		0.0	0.0	0.0
